@@ -1,7 +1,8 @@
+import NavMenu from "./Components/NavMenu";
 function App() {
   return (
     <div className="App">
-      <h1>TCU 658</h1>
+      <NavMenu></NavMenu>
     </div>
   );
 }
