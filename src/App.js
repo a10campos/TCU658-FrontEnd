@@ -1,8 +1,8 @@
-import NavMenu from "./Components/NavMenu";
+import Header from "./Components/Header";
 function App() {
   return (
     <div className="App">
-      <NavMenu></NavMenu>
+      <Header></Header>
     </div>
   );
 }
