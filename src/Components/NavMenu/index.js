@@ -6,7 +6,7 @@ export default function NavMenu () {
         <>
             <nav className="bg-blue">
                 <div className="container px-4 flex flex-wrap py-2 mx-auto border">
-                    <a href="#" className=" text-white inline-flex p-2 text-xl font-bold uppercase tracking-winder">TCU 658</a>
+                    <a href="http://localhost:3000/" className=" text-white inline-flex p-2 text-xl font-bold uppercase tracking-winder">TCU 658</a>
                     <button
                     onClick={()=>setShowNav(!showNav)}
                     className="lg:hidden inline-flex items-center justify-center text-white border h-10 w-10 ml-auto rounded-md outline-none focus:outline-none">
@@ -18,13 +18,13 @@ export default function NavMenu () {
                         className={(showNav ? "visible" : "")+"hidden w-full m-3 lg:inline-flex lg:w-auto mt-2 lg:m-auto"} >
                         <ul className="flex flex-col lg:flex-row lg:space-x-2">
                             <li>
-                                <a className="flex px-4 py-2 rounded-md font-medium text-white hover:bg-gray">Inicio</a>
+                                <a href="http://localhost:3000/" className="flex px-4 py-2 rounded-md font-medium text-white hover:bg-gray">Inicio</a>
                             </li>
                             <li>
-                                <a className="flex px-4 py-2 rounded-md font-medium text-white hover:bg-gray">Niveles</a>
+                                <a href="http://localhost:3000/" className="flex px-4 py-2 rounded-md font-medium text-white hover:bg-gray">Niveles</a>
                             </li>
                             <li>
-                                <a className="flex px-4 py-2 rounded-md font-medium text-white hover:bg-gray">Contacto</a>
+                                <a href="http://localhost:3000/" className="flex px-4 py-2 rounded-md font-medium text-white hover:bg-gray">Contacto</a>
                             </li>
                         </ul>
                     </div>
