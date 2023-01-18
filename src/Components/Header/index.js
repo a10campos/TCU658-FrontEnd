@@ -1,5 +1,3 @@
-import NavMenu from "../NavMenu";
-
 export default function Header () {
 
     return (
@@ -18,7 +16,6 @@ export default function Header () {
                     </div>
                 </div>
             </div>
-            <NavMenu></NavMenu>
         </>
     );
 }
