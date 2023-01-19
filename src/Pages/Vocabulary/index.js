@@ -1,7 +1,8 @@
-import Header from "./Components/Header";
-import Cards from "./Components/Cards"
-import Footer from "./Components/Footer";
-function App() {
+import Header from "../../Components/Header";
+import Cards from "../../Components/Cards";
+import Footer from "../../Components/Footer";
+
+function Vocabulary() {
   return (
     <div className="App">
       <Header></Header>
@@ -15,4 +16,4 @@ function App() {
   );
 }
 
-export default App;
+export default Vocabulary;
