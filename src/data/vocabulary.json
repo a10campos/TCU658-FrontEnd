@@ -1,0 +1,39 @@
+[
+    {
+    "id":"1",
+    "title":"Hello",
+    "titleSpanish":"Hola",
+    "img":"https://thumbs.dreamstime.com/b/cartoon-sun-smiles-good-morning-card-vector-96331767.jpg"
+    },
+    {
+        "id":"2",
+        "title":"Hi",
+        "titleSpanish":"Hola",
+        "img":"https://thumbs.dreamstime.com/b/cartoon-sun-smiles-good-morning-card-vector-96331767.jpg"
+    },
+    {
+        "id":"3",
+        "title":"Good Morning",
+        "titleSpanish":"Buenos dias",
+        "img":"https://thumbs.dreamstime.com/b/cartoon-sun-smiles-good-morning-card-vector-96331767.jpg"
+        },
+        {
+            "id":"4",
+            "title":"Good afternoon",
+            "titleSpanish":"Buenas Tardes",
+            "img":"https://thumbs.dreamstime.com/b/cartoon-sun-smiles-good-morning-card-vector-96331767.jpg"
+        },
+        {
+            "id":"5",
+            "title":"Good evening",
+            "titleSpanish":"Buenas tardes",
+            "img":"https://thumbs.dreamstime.com/b/cartoon-sun-smiles-good-morning-card-vector-96331767.jpg"
+        },
+        {
+            "id":"6",
+            "title":"Good nigth",
+            "titleSpanish":"Buenas Noches",
+            "img":"https://thumbs.dreamstime.com/b/cartoon-sun-smiles-good-morning-card-vector-96331767.jpg"
+        }
+    
+]
