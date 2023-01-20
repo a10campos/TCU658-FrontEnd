@@ -2,7 +2,6 @@ import Header from "../../Components/Header";
 import Footer from "../../Components/Footer";
 import Cards from "../../Components/Cards";
 import units from "../../data/units.json"
-import Spinner from "../../Components/Spinner";
 
 export default function Units(){
     return(
