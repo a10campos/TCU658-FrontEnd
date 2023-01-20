@@ -1,6 +1,7 @@
 import Header from "../../Components/Header";
 import Cards from "../../Components/Cards";
 import Footer from "../../Components/Footer";
+import vocabularies from "../../data/vocabulary.json";
 
 function Vocabulary() {
   return (
@@ -8,8 +9,13 @@ function Vocabulary() {
       <Header></Header>
       <h1 className="border flex items-center justify-center m-2 text-2xl font-bold">Vocabulary</h1>
       <div className="border flex flex-wrap justify-center">
-        <Cards></Cards>
-        <Cards></Cards>
+      {
+      vocabularies.map((i) => {
+        return(
+          <Cards title={i.title} titleSpanish={i.titleSpanish}url={i.img}/>
+        )
+      })
+      }
       </div>
       <Footer></Footer>
     </div>
