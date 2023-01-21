@@ -1,5 +1,5 @@
 import Header from "../../Components/Header";
-import Cards from "../../Components/Cards";
+import FlipCards from "../../Components/FlipCards";
 import Footer from "../../Components/Footer";
 import vocabularies from "../../data/vocabulary.json";
 
@@ -12,7 +12,7 @@ function Vocabulary() {
       {
       vocabularies.map((i) => {
         return(
-          <Cards title={i.title} titleSpanish={i.titleSpanish}url={i.img}/>
+          <FlipCards title={i.title} titleSpanish={i.titleSpanish}url={i.img}/>
         )
       })
       }
