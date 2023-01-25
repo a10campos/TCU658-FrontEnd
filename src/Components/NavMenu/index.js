@@ -5,7 +5,7 @@ export default function NavMenu () {
         //Header de las imagenes con los logos
         <>
             <nav className="bg-blue">
-                <div className="container px-4 flex flex-wrap py-2 mx-auto border">
+                <div className="container px-4 flex flex-wrap py-2 mx-auto">
                     <a href="http://localhost:3000/" className=" text-white inline-flex p-2 text-xl font-bold uppercase tracking-winder">TCU 658</a>
                     <button
                     onClick={()=>setShowNav(!showNav)}
