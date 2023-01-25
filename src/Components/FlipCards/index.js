@@ -4,7 +4,7 @@ export default function Cards (props) {
         <>
                 <div className="group h-[200px] w-[200px] [perspective:1000px] m-2 mb-10 rounded-xl bg-white flex flex-col">
                     <div className="relative h-full w-full rounded-2xl border shadow-xl border-[#e6e6e6]  transition-all duration-500 [transform-style:preserve-3d] group-hover:[transform:rotateY(180deg)]">
-                        <div className="flex flex-col inset-0 object-cover h-full w-full rounded-xl justify-center items-center">
+                        <div className="flex flex-col inset-0 object-cover h-full w-full rounded-xl justify-center items-center hover:hidden ">
                                 <img alt=" "class="w-24 h-24 rounded-full shadow-xl" src={props.url}/>
                                 <h5 class="mb-1 text-xl font-medium text-gray-900 mt-2">{props.title}</h5>
                                 <span class="text-sm text-gray-500 dark:text-gray-400 mt-1">{props.titleSpanish}</span>
