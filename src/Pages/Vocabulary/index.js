@@ -7,7 +7,7 @@ function Vocabulary() {
   return (
     <div className="App">
       <Header></Header>
-      <body ontouchstart="">
+      <body>
         <h1 className="flex items-center justify-center m-4 text-4xl font-bold">Vocabulary</h1>
         <div className="flex flex-wrap justify-center mt-4">
         {
