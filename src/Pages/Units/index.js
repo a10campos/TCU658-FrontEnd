@@ -8,7 +8,7 @@ export default function Units(){
         <>
             <div>
                 <Header></Header>
-                <h1 className=" flex items-center justify-center m-4 text-4xl font-bold">Units</h1>
+                <h1 className=" flex items-center justify-center m-4 text-4xl font-bold mt-10 mb-8">Units</h1>
                 <div className=" flex flex-wrap justify-center"> 
                     {
                         units.map((i) => {

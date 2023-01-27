@@ -8,7 +8,7 @@ export default function Levels() {
         <>
             <div>
                 <Header></Header>
-                <h1 className=" flex items-center justify-center m-4 text-4xl font-bold">Levels</h1>
+                <h1 className=" flex items-center justify-center m-4 text-4xl font-bold mt-10 mb-8">Levels</h1>
                 <div className=" flex flex-wrap justify-center"> 
                     {
                         level.map((i) => {
