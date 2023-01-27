@@ -5,7 +5,7 @@ export default function TestCards(props) {
     let julio
 
 
-    if (respuesta===props.title) {
+    if (respuesta.toLowerCase()===props.title.toLowerCase()) {
         julio = true; 
     }
     return (
