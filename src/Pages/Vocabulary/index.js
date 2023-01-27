@@ -7,8 +7,8 @@ function Vocabulary() {
   return (
     <div className="App">
       <Header></Header>
-      <body>
-        <h1 className="flex items-center justify-center m-4 text-4xl font-bold">Vocabulary</h1>
+      <body className="h-full">
+        <h1 className="flex items-center justify-center m-4 text-4xl font-bold mt-10 mb-8">Vocabulary</h1>
         <div className="flex flex-wrap justify-center mt-4">
         {
         vocabularies.map((i) => {
