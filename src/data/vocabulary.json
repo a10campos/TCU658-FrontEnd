@@ -3,37 +3,525 @@
     "id":"1",
     "title":"Hello",
     "titleSpanish":"Hola",
+    "desciption":"Saludo",
     "img":"https://cdn5.dibujos.net/dibujos/pintados/201603/nino-con-mochila-colegio-10384693.jpg"
     },
     {
         "id":"2",
         "title":"Hi",
         "titleSpanish":"Hola",
+        "desciption":"Saludo informal",
         "img":"https://thumbs.dreamstime.com/b/hola-y-mano-del-saludo-palabra-y-ejemplo-correspondiente-personaje-de-dibujos-animados-emoji-con-los-ojos-que-ilustran-el-texto-82872102.jpg"
     },
     {
         "id":"3",
         "title":"Good Morning",
         "titleSpanish":"Buenos dias",
+        "desciption":"Saludo de buenos dias en las mañanas",
         "img":"https://thumbs.dreamstime.com/b/cartoon-sun-smiles-good-morning-card-vector-96331767.jpg"
         },
         {
             "id":"4",
             "title":"Good afternoon",
             "titleSpanish":"Buenas Tardes",
+            "desciption":"Saludo",
             "img":"https://gamesmartz.com/upload/subjects/spanish/800-no-text/buenas-tardes.png"
         },
         {
             "id":"5",
             "title":"Good evening",
             "titleSpanish":"Buenas tardes",
+            "desciption":"Saludo",
             "img":"https://gamesmartz.com/upload/subjects/spanish/800-no-text/buenas-noches.png"
         },
         {
             "id":"6",
-            "title":"Good nigth",
+            "title":"Good night",
             "titleSpanish":"Buenas Noches",
+            "desciption":"Saludo",
             "img":"https://4.bp.blogspot.com/-19H4lDt8XG8/WvRlZaV6bmI/AAAAAAAIVHU/Wr_Mb-MkgksvI5HQGbiQsBG_wbQLBYQFgCLcBGAs/s1600/good%2Bnight333.png"
+        },
+        {
+            "id":"7",
+            "title":"See you tomorrow",
+            "titleSpanish":"Te veo mañana",
+            "desciption":"Despedida",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK_Fv_d0EDzPJEiWAvA-JWbfLvypFM_xnVWQn0OP6M34cRrxFfJebJAVMYFJ2mQ2WSJZo&usqp=CAU"
+        },
+        {
+            "id":"8",
+            "title":"See you later",
+            "titleSpanish":"Te veo luego",
+            "desciption":"Despedida",
+            "img":"https://quizizz.com/media/resource/gs/quizizz-media/questions/1848fbca-544c-4c28-b406-dbfca26d887b?w=90&h=90"
+        },
+        {
+            "id":"9",
+            "title":"See you soon",
+            "titleSpanish":"Te veo pronto",
+            "desciption":"Despedida",
+            "img":"https://2.bp.blogspot.com/-HkDYnLj3V_U/Vgk8yAU29FI/AAAAAAAAACQ/aeNO3nC6Y6w/s1600/see-you-soon.jpg"
+        },  
+        {
+            "id":"10",
+            "title":"My name is Juan",
+            "titleSpanish":"Mi nombre es Juan",
+            "desciption":"Forma de decir el nombre ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        },
+        {
+            "id":"11",
+            "title":"Hi, I am Juan",
+            "titleSpanish":" Hola, yo soy Juan",
+            "desciption":"Forma de decir el nombre ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"12",
+            "title":"What is your name?",
+            "titleSpanish":" ¿Cuál es tu nombre?",
+            "desciption":"Forma de preguntar el nombre ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"13",
+            "title":"How are you?",
+            "titleSpanish":" ¿Cómo estás?",
+            "desciption":"Forma de preguntar como se encuentra una persona ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"14",
+            "title":"Fine, thanks, and you?",
+            "titleSpanish":" ¿Bien gracias, y tú?",
+            "desciption":"Forma de responder y preguntar como se encunetra una persona ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"15",
+            "title":"How old are you?",
+            "titleSpanish":" ¿ Cuántos años tienes?",
+            "desciption":"Forma de preguntar cunatos años tiene una persona ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"16",
+            "title":"Nice to meet you",
+            "titleSpanish":"Encantado/a de conocerte",
+            "desciption":"Forma de mostrar agrado al conocer una persona  ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"17",
+            "title":"Nice to meet you too",
+            "titleSpanish":"Encantado/a de conocerte también",
+            "desciption":"Forma de mostrar agrado al conocer una persona  ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"18",
+            "title":"I.",
+            "titleSpanish":"Yo",
+            "desciption":"Primera persona singular ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"19",
+            "title":"You.",
+            "titleSpanish":"Tu",
+            "desciption":"Segunda persona singular",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"20",
+            "title":"They.",
+            "titleSpanish":"Ellos(as)",
+            "desciption":"Tercera persona plural",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"21",
+            "title":"We.",
+            "titleSpanish":"Nosotros(as)",
+            "desciption":"Tercera persona plural",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"22",
+            "title":"He.",
+            "titleSpanish":"Él.",
+            "desciption":"Tercera persona singular",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"23",
+            "title":"She.",
+            "titleSpanish":"Ella.",
+            "desciption":"Tercera persona singular",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"24",
+            "title":"It.",
+            "titleSpanish":"Ello, eso, esto.",
+            "desciption":"Tercera persona singular ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"25",
+            "title":"I am",
+            "titleSpanish":" Yo soy- estoy",
+            "desciption":"Conjugación del verbo ser y estar de la primera persona singular",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"26",
+            "title":"You are",
+            "titleSpanish":"Usted es-está",
+            "desciption":"Conjugación del verbo ser y estar de la sengunda persona singular ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"27",
+            "title":"They are",
+            "titleSpanish":"Ellos(as) son- están",
+            "desciption":"Conjugación del verbo ser y estar de la tercera persona plural ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"28",
+            "title":"We are",
+            "titleSpanish":"Nosotros(as) somos- estamos.",
+            "desciption":"Conjugación del verbo ser y estar de la tercera persona plural ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"29",
+            "title":"He is.",
+            "titleSpanish":"Él es-está.",
+            "desciption":"Conjugación del verbo ser y estar de la tercera persona singular ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"30",
+            "title":"She is.",
+            "titleSpanish":"Ella es/ está.",
+            "desciption":"Conjugación del verbo ser y estar de la tercera persona singular ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"31",
+            "title":"It is.",
+            "titleSpanish":"Él está- es.",
+            "desciption":"Conjugación del verbo ser y estar de la tercera  persona singular  ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"32",
+            "title":"I am not.",
+            "titleSpanish":"Yo no soy- estoy.",
+            "desciption":"Conjugación negativa del verbo ser y estar de la primera persona singular   ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"33",
+            "title":"You are not- you aren’t.",
+            "titleSpanish":"Usted no es-no está.",
+            "desciption":"Conjugación negativa del verbo ser y estar de la segunda persona singular   ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"34",
+            "title":"They are not.",
+            "titleSpanish":"Ellos(as) no son- están.",
+            "desciption":"Conjugación negativa del verbo ser y estar de la tercera persona plural   ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"35",
+            "title":"We are not- we aren’t.",
+            "titleSpanish":"Nosotros(as) no somos- estamos.",
+            "desciption":"Conjugación negativa del verbo ser y estar de la tercera persona plural   ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"36",
+            "title":"He is not- he isn’t.",
+            "titleSpanish":"Él no es- está.",
+            "desciption":"Conjugación negativa del verbo ser y estar de la tercera persona singular    ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"37",
+            "title":"She is not- she isn’t.",
+            "titleSpanish":" Ella no es- está.",
+            "desciption":"Conjugación negativa del verbo ser y estar de la tercera persona singular    ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"38",
+            "title":"It is not- it isn’t.",
+            "titleSpanish":"Él no es- está.",
+            "desciption":"Conjugación negativa del verbo ser y estar de la tercera persona singular    ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"39",
+            "title":"Am I…? .",
+            "titleSpanish":"¿ Yo soy…?.",
+            "desciption":"Conjugacion interrogativa del verbo ser y estar de la primera persona singular    ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"40",
+            "title":"Are you…?.",
+            "titleSpanish":"¿Usted es…?.",
+            "desciption":"Conjugacion interrogativa del verbo ser y estar de la segunda persona singular    ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"41",
+            "title":"Are they…?",
+            "titleSpanish":"¿Ellos(as) son…?",
+            "desciption":"Conjugacion interrogativa del verbo ser y estar de la tercera persona plural    ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"42",
+            "title":"Are we…?",
+            "titleSpanish":"¿ Nosotros(as) somos…?",
+            "desciption":"Conjugacion interrogativa del verbo ser y estar de la tercera persona plural    ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"43",
+            "title":"Is he…?",
+            "titleSpanish":"¿Él es…?",
+            "desciption":"Conjugacion interrogativa del verbo ser y estar de la tercera persona singular   ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"44",
+            "title":"Is she…?.",
+            "titleSpanish":"¿Ella es…?.",
+            "desciption":"Conjugacion interrogativa del verbo ser y estar de la tercera persona singular   ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"45",
+            "title":"Is it…?.",
+            "titleSpanish":"¿Ello es…?.",
+            "desciption":"Conjugacion interrogativa del verbo ser y estar de la tercera persona singular   ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"46",
+            "title":"Hospital.",
+            "titleSpanish":"Hospital.",
+            "desciption":"Hospital-hospital",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"47",
+            "title":"Bank.",
+            "titleSpanish":"Banco.",
+            "desciption":"Bank-Banco ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"48",
+            "title":"School.",
+            "titleSpanish":"Escuela.",
+            "desciption":"School-Escuela",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"49",
+            "title":"Jail.",
+            "titleSpanish":"Carcel.",
+            "desciption":"Jail- Carcel. ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"50",
+            "title":"Church.",
+            "titleSpanish":"Carcel.",
+            "desciption":"Church- Iglesia. ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"51",
+            "title":"Library.",
+            "titleSpanish":" Biblioteca .",
+            "desciption":"Library- Biblioteca . ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"52",
+            "title":"Police station.",
+            "titleSpanish":"  .",
+            "desciption":"Police station- Estación de policía . ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        },
+        {
+            "id":"53",
+            "title":"Gas station.",
+            "titleSpanish":" Gasolinera .",
+            "desciption":"Gas station- Gasolinera. ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"54",
+            "title":"Restaurant.",
+            "titleSpanish":" Restaurante .",
+            "desciption":"Restaurant- Restaurante. ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"55",
+            "title":"Mall.",
+            "titleSpanish":" Centro comercial .",
+            "desciption":"Mall- Centro comercial. ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"56",
+            "title":"Bakery.",
+            "titleSpanish":" Panadería.",
+            "desciption":"Bakery- Panadería. ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"57",
+            "title":"Airport.",
+            "titleSpanish":" Aeropuerto. ",
+            "desciption":"Airport-Aeropuerto . ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        },
+        {
+            "id":"58",
+            "title":"Pharmacy.",
+            "titleSpanish":" Farmacia. ",
+            "desciption":"Pharmacy-Farmacia . ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"59",
+            "title":"Hotel",
+            "titleSpanish":" Hotel",
+            "desciption":"Hotel-hotel. ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"60",
+            "title":"Fire station",
+            "titleSpanish":" Estación de bomberos",
+            "desciption":"Fire station-Estación de bomberos. ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"61",
+            "title":"Flower shop.",
+            "titleSpanish":" Floristería",
+            "desciption":"Flower shop-floristería  ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"62",
+            "title":"Coffee shop.",
+            "titleSpanish":" Cafetería",
+            "desciption":"Coffee shop-Cafetería  ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        }, 
+        {
+            "id":"63",
+            "title":"Supermarket.",
+            "titleSpanish":" Supermercado",
+            "desciption":"Supermarket-Supermercado  ",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        },
+        {
+            "id":"64",
+            "title":"Mother- mom.",
+            "titleSpanish":" Mamá-mami",
+            "desciption":"Mother- mom/ Mamá-mami",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        },
+        {
+            "id":"64",
+            "title":"Father-dad",
+            "titleSpanish":"Papá-papi",
+            "desciption":"Father-dad/ Papá-papi",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        },
+        {
+            "id":"65",
+            "title":"Brother",
+            "titleSpanish":" Hermano",
+            "desciption":"Brother/ Hermano",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        },
+        {
+            "id":"66",
+            "title":"Sister",
+            "titleSpanish":" Hermana",
+            "desciption":"Sister/ Hermana",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        },
+        {
+            "id":"67",
+            "title":"Grandma- grandmother",
+            "titleSpanish":" Abuela",
+            "desciption":"Grandma- grandmother/ Abuela",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        },
+        {
+            "id":"68",
+            "title":"Grandfather",
+            "titleSpanish":" Abuelo",
+            "desciption":"Grandfather/ Abuelo",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        },
+        {
+            "id":"69",
+            "title":"Uncle",
+            "titleSpanish":"Tío ",
+            "desciption":"Uncle/Tío",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+        },
+        {
+            "id":"70",
+            "title":"Aunt",
+            "titleSpanish":"Tía",
+            "desciption":"Aunt/ Tía",
+            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
         }
+         
+         
+         
+         
+         
+         
+         
+         
+        
     
-]
+    
+    
+    
+    
+    
+        
+   
+        
+        
+        
+        
+
+
+
+
+
+
+
+]   
