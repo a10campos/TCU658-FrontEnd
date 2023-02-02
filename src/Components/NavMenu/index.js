@@ -18,13 +18,13 @@ export default function NavMenu () {
                             className={(showNav ? "visible" : "")+"hidden w-full m-3 lg:inline-flex lg:w-auto mt-2 lg:m-auto"} >
                             <ul className="flex flex-col lg:flex-row lg:space-x-2">
                                 <li>
-                                    <a href="http://localhost:3000/" className="flex px-4 py-2 rounded-md font-medium text-white hover:bg-gray">Inicio</a>
+                                    <a href="/" className="flex px-4 py-2 rounded-md font-medium text-white hover:bg-gray">Inicio</a>
                                 </li>
                                 <li>
-                                    <a href="http://localhost:3000/" className="flex px-4 py-2 rounded-md font-medium text-white hover:bg-gray">Niveles</a>
+                                    <a href="/" className="flex px-4 py-2 rounded-md font-medium text-white hover:bg-gray">Niveles</a>
                                 </li>
                                 <li>
-                                    <a href="http://localhost:3000/" className="flex px-4 py-2 rounded-md font-medium text-white hover:bg-gray">Contacto</a>
+                                    <a href="/" className="flex px-4 py-2 rounded-md font-medium text-white hover:bg-gray">Contacto</a>
                                 </li>
                             </ul>
                         </div>
