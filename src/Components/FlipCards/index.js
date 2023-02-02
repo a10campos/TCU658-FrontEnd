@@ -12,7 +12,7 @@ export default function Cards (props) {
                         {/*Card back */}
                         <div className="absolute inset-0 h-full w-full rounded-2xl shadow-xl bg-blue text-center text-slate-200 [transform:rotateY(180deg)] [backface-visibility:hidden]">
                             <div className="flex items-center justify-center w-full h-full">
-                                <h1> Saludo informal entre las 5pm a las 6pm de la tarde </h1>
+                                <h1> {props.description}</h1>
                             </div>
                         </div>
                     </div>
