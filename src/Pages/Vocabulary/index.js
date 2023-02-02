@@ -9,11 +9,11 @@ function Vocabulary() {
       <Header></Header>
       <body className="h-full">
           <h1 className="flex items-center justify-center m-4 text-4xl font-bold mt-10 mb-8">Vocabulary</h1>
-          <div className="border w-[100%] flex flex-wrap mt-4 items-center px-2 justify-center">
+          <div className="w-[100%] flex flex-wrap mt-4 items-center px-2 justify-center">
           {
           vocabularies.map((i) => {
             return(
-              <FlipCards title={i.title} titleSpanish={i.titleSpanish}url={i.img}/>
+              <FlipCards title={i.title} titleSpanish={i.titleSpanish}url={i.img} description={i.desciption}/>
             )
           })
           }
