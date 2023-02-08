@@ -4,6 +4,7 @@
     "title":"Hello",
     "titleSpanish":"Hola",
     "desciption":"Saludo",
+    "id_theme":"1",
     "img":"https://cdn5.dibujos.net/dibujos/pintados/201603/nino-con-mochila-colegio-10384693.jpg"
     },
     {
@@ -11,6 +12,7 @@
         "title":"Hi",
         "titleSpanish":"Hola",
         "desciption":"Saludo informal",
+        "id_theme":"1",
         "img":"https://thumbs.dreamstime.com/b/hola-y-mano-del-saludo-palabra-y-ejemplo-correspondiente-personaje-de-dibujos-animados-emoji-con-los-ojos-que-ilustran-el-texto-82872102.jpg"
     },
     {
@@ -18,6 +20,7 @@
         "title":"Good Morning",
         "titleSpanish":"Buenos dias",
         "desciption":"Saludo de buenos dias en las mañanas",
+        "id_theme":"1",
         "img":"https://thumbs.dreamstime.com/b/cartoon-sun-smiles-good-morning-card-vector-96331767.jpg"
         },
         {
@@ -25,6 +28,7 @@
             "title":"Good afternoon",
             "titleSpanish":"Buenas Tardes",
             "desciption":"Saludo",
+            "id_theme":"1",
             "img":"https://gamesmartz.com/upload/subjects/spanish/800-no-text/buenas-tardes.png"
         },
         {
@@ -39,6 +43,7 @@
             "title":"Good night",
             "titleSpanish":"Buenas Noches",
             "desciption":"Saludo",
+            "id_theme":"1",
             "img":"https://4.bp.blogspot.com/-19H4lDt8XG8/WvRlZaV6bmI/AAAAAAAIVHU/Wr_Mb-MkgksvI5HQGbiQsBG_wbQLBYQFgCLcBGAs/s1600/good%2Bnight333.png"
         },
         {
@@ -46,6 +51,7 @@
             "title":"See you tomorrow",
             "titleSpanish":"Te veo mañana",
             "desciption":"Despedida",
+            "id_theme":"1",
             "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK_Fv_d0EDzPJEiWAvA-JWbfLvypFM_xnVWQn0OP6M34cRrxFfJebJAVMYFJ2mQ2WSJZo&usqp=CAU"
         },
         {
@@ -53,6 +59,7 @@
             "title":"See you later",
             "titleSpanish":"Te veo luego",
             "desciption":"Despedida",
+            "id_theme":"1",
             "img":"https://quizizz.com/media/resource/gs/quizizz-media/questions/1848fbca-544c-4c28-b406-dbfca26d887b?w=90&h=90"
         },
         {
@@ -60,6 +67,7 @@
             "title":"See you soon",
             "titleSpanish":"Te veo pronto",
             "desciption":"Despedida",
+            "id_theme":"1",
             "img":"https://2.bp.blogspot.com/-HkDYnLj3V_U/Vgk8yAU29FI/AAAAAAAAACQ/aeNO3nC6Y6w/s1600/see-you-soon.jpg"
         },  
         {
