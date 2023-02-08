@@ -14,7 +14,7 @@ export default function Levels() {
                         {
                             level.map((i) => {
                                 return(
-                                <Cards title={i.Description} url={i.img} link="units"/>
+                                <Cards title={i.Description} url={i.img} link={`${i.id}`}/>
                                 )
                             })
                         }

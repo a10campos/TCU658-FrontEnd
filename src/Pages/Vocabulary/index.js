@@ -2,8 +2,10 @@ import Header from "../../Components/Header";
 import FlipCards from "../../Components/FlipCards";
 import Footer from "../../Components/Footer";
 import vocabularies from "../../data/vocabulary.json";
+import { useParams } from "react-router-dom";
 
 function Vocabulary() {
+  const {theme_id} = useParams();
   return (
     <div className="App">
       <Header></Header>
@@ -12,8 +14,13 @@ function Vocabulary() {
           <div className="w-[100%] flex flex-wrap mt-4 items-center px-2 justify-center">
           {
           vocabularies.map((i) => {
+            if (theme_id === i.id_theme) {
+              return(
+                <FlipCards title={i.title} titleSpanish={i.titleSpanish}url={i.img} description={i.desciption}/>
+              )
+            }
             return(
-              <FlipCards title={i.title} titleSpanish={i.titleSpanish}url={i.img} description={i.desciption}/>
+              <></>
             )
           })
           }
