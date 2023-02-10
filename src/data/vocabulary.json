@@ -75,13 +75,15 @@
             "title":"My name is Juan",
             "titleSpanish":"Mi nombre es Juan",
             "desciption":"Forma de decir el nombre ",
+            "id_theme":"3",
             "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
         },
         {
             "id":"11",
-            "title":"Hi, I am Juan",
-            "titleSpanish":" Hola, yo soy Juan",
+            "title":"I am Juan",
+            "titleSpanish":"Yo soy Juan",
             "desciption":"Forma de decir el nombre ",
+            "id_theme":"3",
             "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
         }, 
         {
@@ -89,6 +91,7 @@
             "title":"What is your name?",
             "titleSpanish":" ¿Cuál es tu nombre?",
             "desciption":"Forma de preguntar el nombre ",
+            "id_theme":"3",
             "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
         }, 
         {
@@ -96,6 +99,7 @@
             "title":"How are you?",
             "titleSpanish":" ¿Cómo estás?",
             "desciption":"Forma de preguntar como se encuentra una persona ",
+            "id_theme":"3",
             "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
         }, 
         {
@@ -103,6 +107,7 @@
             "title":"Fine, thanks, and you?",
             "titleSpanish":" ¿Bien gracias, y tú?",
             "desciption":"Forma de responder y preguntar como se encunetra una persona ",
+            "id_theme":"3",
             "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
         }, 
         {
@@ -110,6 +115,7 @@
             "title":"How old are you?",
             "titleSpanish":" ¿ Cuántos años tienes?",
             "desciption":"Forma de preguntar cunatos años tiene una persona ",
+            "id_theme":"3",
             "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
         }, 
         {
@@ -117,6 +123,7 @@
             "title":"Nice to meet you",
             "titleSpanish":"Encantado/a de conocerte",
             "desciption":"Forma de mostrar agrado al conocer una persona  ",
+            "id_theme":"1",
             "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
         }, 
         {
@@ -124,6 +131,7 @@
             "title":"Nice to meet you too",
             "titleSpanish":"Encantado/a de conocerte también",
             "desciption":"Forma de mostrar agrado al conocer una persona  ",
+            "id_theme":"1",
             "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
         }, 
         {
@@ -429,44 +437,47 @@
         }, 
         {
             "id":"61",
-            "title":"Flower shop.",
+            "title":"Flower shop",
             "titleSpanish":" Floristería",
             "desciption":"Flower shop-floristería  ",
             "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
         }, 
         {
             "id":"62",
-            "title":"Coffee shop.",
+            "title":"Coffee shop",
             "titleSpanish":" Cafetería",
             "desciption":"Coffee shop-Cafetería  ",
             "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
         }, 
         {
             "id":"63",
-            "title":"Supermarket.",
+            "title":"Supermarket",
             "titleSpanish":" Supermercado",
             "desciption":"Supermarket-Supermercado  ",
             "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
         },
         {
             "id":"64",
-            "title":"Mother- mom.",
-            "titleSpanish":" Mamá-mami",
+            "title":"Mother",
+            "titleSpanish":" Mamá",
             "desciption":"Mother- mom/ Mamá-mami",
-            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+            "id_theme":"4",
+            "img":"https://static.vecteezy.com/system/resources/previews/014/449/880/non_2x/mom-icon-in-cartoon-style-vector.jpg"
         },
         {
             "id":"64",
-            "title":"Father-dad",
-            "titleSpanish":"Papá-papi",
+            "title":"Father",
+            "titleSpanish":"Papá",
             "desciption":"Father-dad/ Papá-papi",
-            "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
+            "id_theme":"4",
+            "img":"https://img.freepik.com/vector-premium/dibujos-animados-padre-llevando-hijo-sus-brazos_29190-4640.jpg"
         },
         {
             "id":"65",
             "title":"Brother",
             "titleSpanish":" Hermano",
             "desciption":"Brother/ Hermano",
+            "id_theme":"4",
             "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
         },
         {
@@ -474,13 +485,15 @@
             "title":"Sister",
             "titleSpanish":" Hermana",
             "desciption":"Sister/ Hermana",
+            "id_theme":"4",
             "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
         },
         {
             "id":"67",
-            "title":"Grandma- grandmother",
+            "title":"Grandmother",
             "titleSpanish":" Abuela",
             "desciption":"Grandma- grandmother/ Abuela",
+            "id_theme":"4",
             "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
         },
         {
@@ -488,6 +501,7 @@
             "title":"Grandfather",
             "titleSpanish":" Abuelo",
             "desciption":"Grandfather/ Abuelo",
+            "id_theme":"4",
             "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
         },
         {
@@ -495,6 +509,7 @@
             "title":"Uncle",
             "titleSpanish":"Tío ",
             "desciption":"Uncle/Tío",
+            "id_theme":"4",
             "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
         },
         {
@@ -502,6 +517,7 @@
             "title":"Aunt",
             "titleSpanish":"Tía",
             "desciption":"Aunt/ Tía",
+            "id_theme":"4",
             "img":"https://static.vecteezy.com/system/resources/previews/004/141/669/non_2x/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg"
         }
          
