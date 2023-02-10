@@ -15,9 +15,15 @@ export default function Themes() {
                     <div className=" flex flex-wrap justify-center"> 
                         {
                             level.map((i) => {
-                                return(
-                                <Cards title={i.Description} url={i.img} link={`${level_id}/${unit_id}/${i.id}`}/>
+                                if (i.id_unit === unit_id) {
+                                    return(
+                                        <Cards title={i.Description} url={i.img} link={`${level_id}/${unit_id}/${i.id}`}/>
+                                    )
+                                }
+                                return (
+                                    <></>
                                 )
+                               
                             })
                         }
                     </div>
