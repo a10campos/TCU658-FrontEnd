@@ -5,7 +5,7 @@ import vocabularies from "../../data/vocabulary.json";
 import { useParams } from "react-router-dom";
 
 function Vocabulary() {
-  const {theme_id} = useParams();
+  const {level_id,unit_id,theme_id} = useParams();
   return (
     <div className="App">
       <Header></Header>
@@ -26,7 +26,7 @@ function Vocabulary() {
           }
           </div>
           <div className="grid place-items-center">
-            <a href="/units/vocabulary/test">
+            <a href={`/${level_id}/${unit_id}/${theme_id}/test`}>
               <button  className="m-2 border bg-blue rounded-md p-4  border-[#e6e6e6] text-white">Let's Practice</button>
             </a>
           </div>
