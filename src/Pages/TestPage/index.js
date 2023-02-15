@@ -2,7 +2,10 @@ import Header from "../../Components/Header";
 import Footer from "../../Components/Footer";
 import vocabularies from "../../data/vocabulary.json";
 import TestCards from "../../Components/TestCards";
+import { useParams } from "react-router-dom";
+
 export default function TestPage () {
+  const {theme_id} = useParams();
     return (
         <>
         <Header></Header>
@@ -11,9 +14,14 @@ export default function TestPage () {
           <div className="w-[100%] flex flex-wrap mt-4 items-center px-2 justify-center">
           {
           vocabularies.map((i) => {
-            return(
-              <TestCards title={i.title} titleSpanish={i.titleSpanish}url={i.img}/>
-            )
+              if (theme_id === i.id_theme) {
+                return(
+                  <TestCards title={i.title} titleSpanish={i.titleSpanish}url={i.img}/>
+                )
+              }
+              return (
+                <></>
+              )
           })
           }
           </div>
