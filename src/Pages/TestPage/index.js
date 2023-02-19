@@ -7,6 +7,12 @@ export default function TestPage () {
   const [respuesta,setRespuesta] = useState("");
   const [actualQuestion,setActualQuetion] = useState(0);
   const [score,setScore] = useState(0);
+  const [input,setInput] = useState('');
+  
+  const takeChangeInput = (e) => {
+    setRespuesta(e.target.value)
+    setInput(e.target.value);
+  }
 
   function handleAnswerSubmit() {
     if (respuesta === vocabularies[actualQuestion].title) {
@@ -17,6 +23,7 @@ export default function TestPage () {
 
     }
     setActualQuetion(actualQuestion+1);
+    setInput('');
   }
   
   //const {theme_id} = useParams();
@@ -29,8 +36,7 @@ export default function TestPage () {
           <div className="w-[100%] flex flex-col mt-4 items-center px-2 justify-center">
             <div className="border flex flex-col h-[250px] w-[200px] rounded-xl items-center m-2">
               <img alt=" "className=" mt-4 w-32 h-32 rounded-xl shadow-2xl" src={vocabularies[actualQuestion].img}/>
-              <input autoComplete="off"
-              onChange={(evt) => {setRespuesta(evt.target.value)}}
+              <input value={input} onChange={takeChangeInput}
               placeholder="What it's" className=" p-2 rounded-md placeholder:text-center w-[80%] text-xl border border-[#e6e6e6] mt-4"></input>
               <span className=" text-md text-gray-500 dark:text-gray-400">{vocabularies[actualQuestion].titleSpanish}</span>
             </div>
