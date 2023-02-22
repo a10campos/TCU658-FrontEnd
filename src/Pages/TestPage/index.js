@@ -1,7 +1,8 @@
 import Header from "../../Components/Header";
 import Footer from "../../Components/Footer";
 import vocabularies from "../../data/vocabulary.json";
-import {useState} from "react"
+import {useState} from "react";
+import { useParams } from "react-router-dom";
 
 export default function TestPage () {
   const [respuesta,setRespuesta] = useState("");
@@ -9,6 +10,9 @@ export default function TestPage () {
   const [score,setScore] = useState(0);
   const [input,setInput] = useState('');
   const [showSearch,setShowSearch] = useState("");
+  const {theme_id} = useParams();
+  const [stateQuestion,setStateQuestion] = useState(" ");
+
   const takeChangeInput = (e) => {
     setRespuesta(e.target.value)
     setInput(e.target.value);
@@ -16,36 +20,44 @@ export default function TestPage () {
   }
 
   function handleAnswerSubmit() {
-    if (respuesta === vocabularies[actualQuestion].title) {
+    if (respuesta === filter[actualQuestion].title) {
       setScore(score + 1);
       setShowSearch("bg-green");
+      setStateQuestion("Correct");
     }
     else {
       setShowSearch("bg-[#ff0000]");
+      setStateQuestion("Incorrect");
     }
       setTimeout(() => {
         setActualQuetion(actualQuestion+1);
         setInput('');
         setShowSearch("")
+        setStateQuestion(" ")
       },1500);
     }
+    const filter = vocabularies.filter (function(element) {
+      return element.id_theme === theme_id
+    })
 
-  //const {theme_id} = useParams();
+
     return (
         <>
         <Header></Header>
         <body className="h-full">
         <h1 className="flex items-center justify-center m-4 text-4xl font-bold mt-10 mb-8">Practice</h1>
-        <span className="flex  p-2 justify-center itemns-center text-2xl font-bold">Score: {score}/20</span>
+        <span className="flex  p-2 justify-center itemns-center text-2xl font-bold">Score: {score}/{filter.length}</span>
           <div className="w-[100%] flex flex-col mt-4 items-center px-2 justify-center">
-            <div className={`border flex flex-col h-[250px] w-[200px] rounded-xl items-center m-2 ${showSearch}`}>
-              <img alt=" "className=" mt-4 w-32 h-32 rounded-xl shadow-2xl" src={vocabularies[actualQuestion].img}/>
+            <div className={`flex flex-col h-[250px] w-[200px] rounded-xl items-center m-2 ${showSearch}`}>
+              <img alt=" "className=" mt-4 w-32 h-32 rounded-xl shadow-2xl" src={filter[actualQuestion].img}/>
               <input value={input} onChange={takeChangeInput}
               placeholder="What it's" className=" p-2 rounded-md placeholder:text-center w-[80%] text-xl border border-[#e6e6e6] mt-4"></input>
-              <span className=" text-xl text-gray-500 dark:text-gray-400">{vocabularies[actualQuestion].titleSpanish}</span>
+              <span className=" text-xl text-gray-500 dark:text-gray-400">{filter[actualQuestion].titleSpanish}</span>
+              <span className=" "> {stateQuestion}</span>
             </div>
             <div>
               <button className="border rounded-xl p-2 w-[150px] bg-blue text-white" onClick={handleAnswerSubmit}> Siguiente </button>
+              
             </div>
           </div>
       </body>
