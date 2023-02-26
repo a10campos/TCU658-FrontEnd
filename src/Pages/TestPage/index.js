@@ -3,15 +3,16 @@ import Footer from "../../Components/Footer";
 import vocabularies from "../../data/vocabulary.json";
 import {useState} from "react";
 import { useParams } from "react-router-dom";
-
+import Spinner from "../../Components/PopUp"
 export default function TestPage () {
   const [respuesta,setRespuesta] = useState("");
   const [actualQuestion,setActualQuetion] = useState(0);
   const [score,setScore] = useState(0);
   const [input,setInput] = useState('');
   const [showSearch,setShowSearch] = useState("");
-  const {theme_id} = useParams();
   const [stateQuestion,setStateQuestion] = useState(" ");
+  const {level_id,unit_id,theme_id} = useParams();
+  const [isfinished,setIsFinished] = useState(false);
 
   const takeChangeInput = (e) => {
     setRespuesta(e.target.value)
@@ -35,11 +36,17 @@ export default function TestPage () {
         setShowSearch("")
         setStateQuestion(" ")
       },1500);
+      if (actualQuestion === filter.length-1){
+        setIsFinished(true);
+      }
     }
     const filter = vocabularies.filter (function(element) {
       return element.id_theme === theme_id
     })
 
+    if (isfinished) return (
+      <Spinner url={`/${level_id}/${unit_id}/${theme_id}`} score={score} questions={filter.length-score}></Spinner>
+    );
 
     return (
         <>
