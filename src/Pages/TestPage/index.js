@@ -3,7 +3,10 @@ import Footer from "../../Components/Footer";
 import vocabularies from "../../data/vocabulary.json";
 import {useState} from "react";
 import { useParams } from "react-router-dom";
-import Spinner from "../../Components/PopUp"
+import Spinner from "../../Components/PopUp";
+import ProgressBar from "../../Components/ProgressBar";
+
+
 export default function TestPage () {
   const [respuesta,setRespuesta] = useState("");
   const [actualQuestion,setActualQuetion] = useState(0);
@@ -53,17 +56,16 @@ export default function TestPage () {
         <Header></Header>
         <body className="h-full">
         <h1 className="flex items-center justify-center m-4 text-4xl font-bold mt-10 mb-8">Practice</h1>
-        <div className="flex items-center justify-center">
-          <span className="flex  p-2 justify-center itemns-center text-2xl font-bold">Question: {actualQuestion+1}/{filter.length}</span>
+        <div className="flex flex-col items-center justify-center">
+          <ProgressBar state={(actualQuestion+1)*100/filter.length-1}></ProgressBar>
           <span className="flex  p-2 justify-center itemns-center text-2xl font-bold">Score: {score}</span>
           </div>
-            <div className="w-[100%] flex flex-col mt-4 items-center px-2 justify-center">
+            <div className="w-[100%] flex flex-col mt-2 items-center px-2 justify-center">
               <div className={`flex flex-col h-[250px] w-[200px] rounded-xl items-center m-2 ${showSearch}`}>
                 <img alt=" "className=" mt-4 w-32 h-32 rounded-xl shadow-2xl" src={filter[actualQuestion].img}/>
-                <input value={input} onChange={takeChangeInput}
+                <input className="" value={input} onChange={takeChangeInput}
                 placeholder="What it's" className=" p-2 rounded-md placeholder:text-center w-[80%] text-xl border border-[#e6e6e6] mt-4"></input>
-                <span className=" text-xl text-gray-500 dark:text-gray-400">{filter[actualQuestion].titleSpanish}</span>
-                <span className=" "> {stateQuestion}</span>
+                <span className=" text-xl text-gray-500 mt-2 dark:text-gray-400">{filter[actualQuestion].titleSpanish}</span>
               </div>
               <div>
                 <button className="border rounded-xl p-2 w-[150px] bg-blue text-white" onClick={handleAnswerSubmit}> Siguiente </button>
