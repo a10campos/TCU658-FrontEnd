@@ -13,7 +13,6 @@ export default function TestPage () {
   const [score,setScore] = useState(0);
   const [input,setInput] = useState('');
   const [showSearch,setShowSearch] = useState("");
-  const [stateQuestion,setStateQuestion] = useState(" ");
   const {level_id,unit_id,theme_id} = useParams();
   const [isfinished,setIsFinished] = useState(false);
 
@@ -27,17 +26,14 @@ export default function TestPage () {
     if (respuesta === filter[actualQuestion].title) {
       setScore(score + 1);
       setShowSearch("bg-green");
-      setStateQuestion("Correct");
     }
     else {
       setShowSearch("bg-[#ff0000]");
-      setStateQuestion("Incorrect");
     }
       setTimeout(() => {
         setActualQuetion(actualQuestion+1);
         setInput('');
         setShowSearch("")
-        setStateQuestion(" ")
       },1500);
       if (actualQuestion === filter.length-1){
         setIsFinished(true);
@@ -63,7 +59,7 @@ export default function TestPage () {
             <div className="w-[100%] flex flex-col mt-2 items-center px-2 justify-center">
               <div className={`flex flex-col h-[250px] w-[200px] rounded-xl items-center m-2 ${showSearch}`}>
                 <img alt=" "className=" mt-4 w-32 h-32 rounded-xl shadow-2xl" src={filter[actualQuestion].img}/>
-                <input className="" value={input} onChange={takeChangeInput}
+                <input value={input} onChange={takeChangeInput}
                 placeholder="What it's" className=" p-2 rounded-md placeholder:text-center w-[80%] text-xl border border-[#e6e6e6] mt-4"></input>
                 <span className=" text-xl text-gray-500 mt-2 dark:text-gray-400">{filter[actualQuestion].titleSpanish}</span>
               </div>
