@@ -5,7 +5,7 @@ import {useState} from "react";
 import { useParams } from "react-router-dom";
 import Spinner from "../../Components/PopUp";
 import ProgressBar from "../../Components/ProgressBar";
-
+import sound from "../../Sounds/applause_y.wav"
 
 export default function TestPage () {
   const [respuesta,setRespuesta] = useState("");
@@ -26,6 +26,7 @@ export default function TestPage () {
     if (respuesta === filter[actualQuestion].title) {
       setScore(score + 1);
       setShowSearch("bg-green");
+      new Audio(sound).play();
     }
     else {
       setShowSearch("bg-[#ff0000]");
