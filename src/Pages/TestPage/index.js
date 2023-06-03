@@ -5,7 +5,8 @@ import {useState} from "react";
 import { useParams } from "react-router-dom";
 import Spinner from "../../Components/PopUp";
 import ProgressBar from "../../Components/ProgressBar";
-import sound from "../../Sounds/applause_y.wav"
+import sound from "../../Sounds/gollo.wav"
+import badsound from "../../Sounds/Alo.wav";
 
 export default function TestPage () {
   const [respuesta,setRespuesta] = useState("");
@@ -29,6 +30,7 @@ export default function TestPage () {
       new Audio(sound).play();
     }
     else {
+      new Audio(badsound).play();
       setShowSearch("bg-[#ff0000]");
     }
       setTimeout(() => {
