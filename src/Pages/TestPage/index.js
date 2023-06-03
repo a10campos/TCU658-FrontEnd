@@ -5,8 +5,8 @@ import {useState} from "react";
 import { useParams } from "react-router-dom";
 import Spinner from "../../Components/PopUp";
 import ProgressBar from "../../Components/ProgressBar";
-import sound from "../../Sounds/gollo.wav"
-import badsound from "../../Sounds/Alo.wav";
+import sound from "../../Sounds/Correct.wav"
+import badsound from "../../Sounds/error.wav";
 
 export default function TestPage () {
   const [respuesta,setRespuesta] = useState("");
