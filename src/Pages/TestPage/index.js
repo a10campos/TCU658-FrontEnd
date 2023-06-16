@@ -24,7 +24,7 @@ export default function TestPage () {
   }
 
   function handleAnswerSubmit() {
-    if (respuesta === filter[actualQuestion].title) {
+    if (respuesta.toLowerCase() === filter[actualQuestion].title.toLowerCase()) {
       setScore(score + 1);
       setShowSearch("bg-green");
       new Audio(sound).play();
