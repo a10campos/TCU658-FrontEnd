@@ -1,7 +1,7 @@
 import Header from "../../Components/Header";
 import Footer from "../../Components/Footer";
 import vocabularies from "../../data/vocabulary.json";
-import {useState} from "react";
+import {useState, useEffect} from "react";
 import { useParams } from "react-router-dom";
 import Spinner from "../../Components/PopUp";
 import ProgressBar from "../../Components/ProgressBar";
@@ -14,6 +14,8 @@ export default function TestPage () {
   const [score,setScore] = useState(0);
   const [input,setInput] = useState('');
   const [showSearch,setShowSearch] = useState("");
+  const [totalQuestions,setTotalQuestions] = useState(10);
+  const [buttonText,setButtonText] = useState("Next");
   const {level_id,unit_id,theme_id} = useParams();
   const [isfinished,setIsFinished] = useState(false);
 
@@ -24,6 +26,10 @@ export default function TestPage () {
   }
 
   function handleAnswerSubmit() {
+    filter.forEach(filtro => {
+      console.log(filtro.id);
+    });
+    
     if (respuesta.toLowerCase() === filter[actualQuestion].title.toLowerCase()) {
       setScore(score + 1);
       setShowSearch("bg-green");
@@ -34,17 +40,31 @@ export default function TestPage () {
       setShowSearch("bg-[#ff0000]");
     }
       setTimeout(() => {
-        setActualQuetion(actualQuestion+1);
+        setActualQuetion(actualQuestion +1);
+        if (actualQuestion === totalQuestions-2 ){
+          setButtonText("Ver resultados");
+        }
         setInput('');
         setShowSearch("")
-      },1500);
-      if (actualQuestion === filter.length-1){
+      },1800);
+
+      if (filter.length < totalQuestions)
+      {
+        setTotalQuestions(filter.length)
+      }
+      if (actualQuestion === totalQuestions-1 ){
         setIsFinished(true);
       }
     }
-    const filter = vocabularies.filter (function(element) {
+
+    let filter = vocabularies.filter (function(element) {
       return element.id_theme === theme_id
     })
+
+    //var filter2 = filter1.sort(function() {return Math.random() - 0.5});
+
+    useEffect(() => {
+    }, []);
 
     if (isfinished) return (
       <Spinner url={`/${level_id}/${unit_id}/${theme_id}`} score={score} questions={filter.length-score}></Spinner>
@@ -56,7 +76,8 @@ export default function TestPage () {
         <body className="h-full">
         <h1 className="flex items-center justify-center m-4 text-4xl font-bold mt-10 mb-8">Practice</h1>
         <div className="flex flex-col items-center justify-center">
-          <ProgressBar state={(actualQuestion+1)*100/filter.length-1}></ProgressBar>
+          <span>{actualQuestion+1}</span>
+          <ProgressBar state={(actualQuestion+1)*100/totalQuestions-1}></ProgressBar>
           <span className="flex  p-2 justify-center itemns-center text-2xl font-bold">Score: {score}</span>
           </div>
             <div className="w-[100%] flex flex-col mt-2 items-center px-2 justify-center">
@@ -67,7 +88,7 @@ export default function TestPage () {
                 <span className=" text-xl text-gray-500 mt-2 dark:text-gray-400">{filter[actualQuestion].titleSpanish}</span>
               </div>
               <div>
-                <button className="border rounded-xl p-2 w-[150px] bg-blue text-white" onClick={handleAnswerSubmit}> Siguiente </button>
+                <button className="border rounded-xl p-2 w-[150px] bg-blue text-white" onClick={handleAnswerSubmit}>{buttonText}</button>
                 
               </div>
             </div>
