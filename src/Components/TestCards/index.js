@@ -1,39 +1,87 @@
-import { useState } from "react";
-import { useSelector, useDispatch } from "react-redux";
-import { increment } from "../../store/slices/Score";
+import {useState} from "react";
+import { useParams } from "react-router-dom";
+import Spinner from "../../Components/PopUp";
+import ProgressBar from "../../Components/ProgressBar";
+import sound from "../../Sounds/Correct.wav"
+import badsound from "../../Sounds/error.wav";
 
 export default function TestCards(props) {
-    const [respuesta,setRespuesta ] = useState ("");
-    let julio
-    const {score} = useSelector (state => state.score) 
-    const dispatch = useDispatch();
-    function Comprobar () {
-        if (respuesta.toLowerCase()===props.title.toLowerCase()) {
-            julio = true;
-            dispatch(increment());
-            
-        }
+    const [respuesta,setRespuesta] = useState("");
+    const [actualQuestion,setActualQuetion] = useState(0);
+    const [score,setScore] = useState(0);
+    const [input,setInput] = useState('');
+    const [showSearch,setShowSearch] = useState("");
+    const [totalQuestions,setTotalQuestions] = useState(10);
+    const [buttonText,setButtonText] = useState("Next");
+    const {level_id,unit_id,theme_id} = useParams();
+    const [isfinished,setIsFinished] = useState(false);
+
+    const takeChangeInput = (e) => {
+        setRespuesta(e.target.value)
+        setInput(e.target.value);
+    
     }
+
+  function handleAnswerSubmit() {
+    props.filter.forEach(filtro => {
+      console.log(filtro.id);
+    });
+    
+    if (respuesta.toLowerCase() === props.filter[actualQuestion].title.toLowerCase()) {
+      setScore(score + 1);
+      setShowSearch("bg-green");
+      new Audio(sound).play();
+    }
+    else {
+      new Audio(badsound).play();
+      setShowSearch("bg-[#ff0000]");
+    }
+      setTimeout(() => {
+        setActualQuetion(actualQuestion +1);
+        if (actualQuestion === totalQuestions-2 ){
+          setButtonText("Ver resultados");
+        }
+        setInput('');
+        setShowSearch("")
+      },1800);
+
+      if (props.filter.length < totalQuestions)
+      {
+        setTotalQuestions(props.filter.length)
+      }
+      if (actualQuestion === totalQuestions-1 ){
+        setIsFinished(true);
+      }
+    }
+
+    //var filter2 = filter1.sort(function() {return Math.random() - 0.5});
+    if (isfinished) return (
+      <Spinner url={`/${level_id}/${unit_id}/${theme_id}`} score={score} questions={props.filter.length-score}></Spinner>
+    );
+
     return (
         <>
-            <div className="flex-row">{score}</div>
-            { 
-            julio ?
-             <div className="border bg-green-700  flex flex-col h-[250px] w-[200px] rounded-xl items-center m-2">
-                <img alt=" "className=" mt-4 w-32 h-32 rounded-xl shadow-2xl" src={props.url}/>
-                <input onChange={(evt) => {setRespuesta(evt.target.value)}} 
+        <body className="h-full">
+        <h1 className="flex items-center justify-center m-4 text-4xl font-bold mt-10 mb-8">Practice</h1>
+        <div className="flex flex-col items-center justify-center">
+          <span>{actualQuestion+1}</span>
+          <ProgressBar state={(actualQuestion+1)*100/totalQuestions-1}></ProgressBar>
+          <span className="flex  p-2 justify-center itemns-center text-2xl font-bold">Score: {score}</span>
+          </div>
+            <div className="w-[100%] flex flex-col mt-2 items-center px-2 justify-center">
+              <div className={`flex flex-col h-[250px] w-[200px] rounded-xl items-center m-2 ${showSearch}`}>
+                <img alt=" "className=" mt-4 w-32 h-32 rounded-xl shadow-2xl" src={props.filter[actualQuestion].img}/>
+                <input value={input} onChange={takeChangeInput}
                 placeholder="What it's" className=" p-2 rounded-md placeholder:text-center w-[80%] text-xl border border-[#e6e6e6] mt-4"></input>
-                <span className=" text-md text-gray-500 dark:text-gray-400">{props.titleSpanish}</span>
+                <span className=" text-xl text-gray-500 mt-2 dark:text-gray-400">{props.filter[actualQuestion].titleSpanish}</span>
+              </div>
+              <div>
+                <button className="border rounded-xl p-2 w-[150px] bg-blue text-white" onClick={handleAnswerSubmit}>{buttonText}</button>
                 
-            </div> : 
-            <div className="border flex flex-col h-[250px] w-[200px] rounded-xl items-center m-2">
-                <img alt=" "className=" mt-4 w-32 h-32 rounded-xl shadow-2xl" src={props.url}/>
-                <input onChange={(evt) => {setRespuesta(evt.target.value)}} 
-                placeholder="What it's" className=" p-2 rounded-md placeholder:text-center w-[80%] text-xl border border-[#e6e6e6] mt-4"></input>
-                <span className=" text-md text-gray-500 dark:text-gray-400">{props.titleSpanish}</span>
-                <button className="border m-2 p-1 rounded-md bg-blue color-white" onClick={Comprobar}>Comprobar</button>
+              </div>
             </div>
-            }
-        </> 
+      </body>
+     
+        </>
     );
 }
