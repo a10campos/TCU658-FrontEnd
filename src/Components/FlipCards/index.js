@@ -2,7 +2,7 @@ export default function Cards (props) {
 
     return (
         <>
-                <div className="group h-[260px] w-[280px] [perspective:1000px] m-2 mb-10 rounded-xl bg-white flex flex-col">
+                <div className="group h-[255px] w-[270px] [perspective:1000px] m-2 mb-10 rounded-xl bg-white flex flex-col">
                     <div onClick="" className=" crelative h-full w-full rounded-2xl border shadow-xl border-[#e6e6e6]  transition-all duration-500 [transform-style:preserve-3d] group-hover:[transform:rotateY(180deg)]">
                         <div className=" flex flex-col inset-0 object-cover h-full w-full rounded-xl  items-center justify-center [backface-visibility:hidden]">
                                 <img alt=" "className=" mt-4 w-32 h-32 rounded-xl shadow-2xl" src={props.url}/>
