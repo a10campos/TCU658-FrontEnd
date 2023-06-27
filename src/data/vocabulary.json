@@ -479,7 +479,7 @@
             "id":"64",
             "title":"Mother",
             "titleSpanish":" Mamá",
-            "desciption":"Mother- mom/ Mamá-mami",
+            "desciption":"Mother - Mamá",
             "id_theme":"4",
             "img":"https://drive.google.com/uc?id=1Kxs-ThRFk_UQaC_wPQQk1o8qBYtjAbaf"
         },
@@ -487,7 +487,7 @@
             "id":"64",
             "title":"Father",
             "titleSpanish":"Papá",
-            "desciption":"Father-dad/ Papá-papi",
+            "desciption":"Father - Papá",
             "id_theme":"4",
             "img":"https://drive.google.com/uc?id=1iSwBP-fueV4SAAbNWcrOcxnaz6bQCIWe"
         },
@@ -495,7 +495,7 @@
             "id":"65",
             "title":"Brother",
             "titleSpanish":" Hermano",
-            "desciption":"Brother/ Hermano",
+            "desciption":"Brother - Hermano",
             "id_theme":"4",
             "img":"https://drive.google.com/uc?id=1lqNa7TrwaGX6Humv6oOWJMOc1gxCzPBN"
         },
@@ -503,7 +503,7 @@
             "id":"66",
             "title":"Sister",
             "titleSpanish":" Hermana",
-            "desciption":"Sister/ Hermana",
+            "desciption":"Sister - Hermana",
             "id_theme":"4",
             "img":"https://drive.google.com/uc?id=1M5Rti8hTt0XABnp2umdHvdvxs9suoVRa"
         },
@@ -511,7 +511,7 @@
             "id":"67",
             "title":"Grandmother",
             "titleSpanish":" Abuela",
-            "desciption":"Grandma- grandmother/ Abuela",
+            "desciption":"Grandmother - Abuela",
             "id_theme":"4",
             "img":"https://drive.google.com/uc?id=1jbBpsKv6JHwTg9euDuQL8B33JxkOKdfM"
         },
@@ -519,7 +519,7 @@
             "id":"68",
             "title":"Grandfather",
             "titleSpanish":" Abuelo",
-            "desciption":"Grandfather/ Abuelo",
+            "desciption":"Grandfather - Abuelo",
             "id_theme":"4",
             "img":"https://drive.google.com/uc?id=17XJ6xslKvPb_cGOKNuRo2QNMqdpFEcqW"
         },
@@ -527,7 +527,7 @@
             "id":"69",
             "title":"Uncle",
             "titleSpanish":"Tío",
-            "desciption":"Uncle/Tío",
+            "desciption":"Uncle - Tío",
             "id_theme":"4",
             "img":"https://drive.google.com/uc?id=1uHQjLkyUeTTMb6nDHUntzJKBEvdeVr0P"
         },
@@ -535,7 +535,7 @@
             "id":"70",
             "title":"Aunt",
             "titleSpanish":"Tía",
-            "desciption":"Aunt/ Tía",
+            "desciption":"Aunt - Tía",
             "id_theme":"4",
             "img":"https://drive.google.com/uc?id=1Uj-bkieCI7Dh6S4dD9GEYiTUjyDYp_zg"
         },
