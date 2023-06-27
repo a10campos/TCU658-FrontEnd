@@ -12,7 +12,7 @@ export default function TestCards(props) {
     const [input,setInput] = useState('');
     const [showSearch,setShowSearch] = useState("");
     const [totalQuestions,setTotalQuestions] = useState(10);
-    const [buttonText,setButtonText] = useState("Siguiente");
+    const [buttonText,setButtonText] = useState("Next");
     const {level_id,unit_id,theme_id} = useParams();
     const [isfinished,setIsFinished] = useState(false);
 
@@ -39,7 +39,7 @@ export default function TestCards(props) {
       setTimeout(() => {
         setActualQuetion(actualQuestion +1);
         if (actualQuestion === totalQuestions-2 ){
-          setButtonText("Ver resultados");
+          setButtonText("View results");
         }
         setInput('');
         setShowSearch("")

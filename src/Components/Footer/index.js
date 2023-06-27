@@ -4,7 +4,7 @@ export default function Footer () {
     return (
         //Header de las imagenes con los logos
         <>
-        <footer className="mt-2 h-36 lg:h-[150px] bg-gray flex flex-wrap p-7 items-center justify-center ">
+        <footer id="footer"className="mt-2 h-36 lg:h-[150px] bg-gray flex flex-wrap p-7 items-center justify-center ">
                 <div className="">
                     <div className="pl-2 grid grid-cols-1 lg:flex lg:flex-row lg:space-x-80">
                         <div className="flex ">
