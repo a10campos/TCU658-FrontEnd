@@ -71,8 +71,8 @@ export default function TestCards(props) {
             <div className="w-[100%] flex flex-col mt-2 items-center px-2 justify-center">
               <div className={`flex flex-col h-[250px] w-[200px] rounded-xl items-center m-2 ${showSearch}`}>
                 <img alt=" "className=" mt-4 w-32 h-32 rounded-xl shadow-2xl" src={props.filter[actualQuestion].img}/>
-                <input value={input} onChange={takeChangeInput}
-                placeholder="What it's" className=" p-2 rounded-md placeholder:text-center w-[80%] text-xl border border-[#e6e6e6] mt-4"></input>
+                <textarea value={input} onChange={takeChangeInput}
+                placeholder="What it's" className=" p-2 rounded-md placeholder:text-center w-[80%] text-xl border border-[#e6e6e6] mt-4"></textarea>
                 <span className=" text-xl text-gray-500 mt-2 dark:text-gray-400">{props.filter[actualQuestion].titleSpanish}</span>
               </div>
               <div>
