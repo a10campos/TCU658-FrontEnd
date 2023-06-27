@@ -333,105 +333,105 @@
         }, 
         {
             "id":"46",
-            "title":"Hospital.",
-            "titleSpanish":"Hospital.",
+            "title":"Hospital",
+            "titleSpanish":"Hospital",
             "desciption":"Hospital-hospital",
             "id_theme":"2",
             "img":"https://drive.google.com/uc?id=1iJmLcDyay7ocfpKWhT95nG2qu82R4tai"
         }, 
         {
             "id":"47",
-            "title":"Bank.",
-            "titleSpanish":"Banco.",
+            "title":"Bank",
+            "titleSpanish":"Banco",
             "desciption":"Bank-Banco ",
             "id_theme":"2",
             "img":"https://drive.google.com/uc?id=1ERgFSmZiLtHdA1MifXydWqH0llnsdYgx"
         }, 
         {
             "id":"48",
-            "title":"School.",
-            "titleSpanish":"Escuela.",
+            "title":"School",
+            "titleSpanish":"Escuela",
             "desciption":"School-Escuela",
             "id_theme":"2",
             "img":"https://drive.google.com/uc?id=1nsFdkZ9PaoFNhZR9zdjKuKVKt7D3axsc"
         }, 
         {
             "id":"49",
-            "title":"Jail.",
-            "titleSpanish":"Carcel.",
+            "title":"Jail",
+            "titleSpanish":"Carcel",
             "desciption":"Jail- Carcel. ",
             "id_theme":"2",
             "img":"https://drive.google.com/uc?id=1TH46ytjX-GwVenlQkcVCPUj1WddIUWZm"
         }, 
         {
             "id":"50",
-            "title":"Church.",
-            "titleSpanish":"Iglesia.",
-            "desciption":"Church- Iglesia. ",
+            "title":"Church",
+            "titleSpanish":"Iglesia",
+            "desciption":"Church- Iglesia",
             "id_theme":"2",
             "img":"https://drive.google.com/uc?id=1Y-1SbHPm31I-XVQPsOGwLgyynkag_VUj"
         }, 
         {
             "id":"51",
-            "title":"Library.",
-            "titleSpanish":" Biblioteca .",
-            "desciption":"Library- Biblioteca . ",
+            "title":"Library",
+            "titleSpanish":" Biblioteca",
+            "desciption":"Library- Biblioteca",
             "id_theme":"2",
             "img":"https://drive.google.com/uc?id=1eSwcrMiKvxlfp4MpOa9RLpKUK1Lyy9ZX"
         }, 
         {
             "id":"52",
-            "title":"Police station.",
-            "titleSpanish":"  .",
-            "desciption":"Police station- Estación de policía . ",
+            "title":"Police station",
+            "titleSpanish":"Estación de policía",
+            "desciption":"Police station - Estación de policía",
             "id_theme":"2",
             "img":"https://drive.google.com/uc?id=1HsXnPxJW_P8HBM7aBRq8gPs0GsVSfsrC"
         },
         {
             "id":"53",
-            "title":"Gas station.",
-            "titleSpanish":" Gasolinera .",
-            "desciption":"Gas station- Gasolinera. ",
+            "title":"Gas station",
+            "titleSpanish":" Gasolinera",
+            "desciption":"Gas station- Gasolinera",
             "id_theme":"2",
             "img":"https://drive.google.com/uc?id=1tp5yjitaMkyJz2glDOlGnArTAayS_rXt"
         }, 
         {
             "id":"54",
-            "title":"Restaurant.",
-            "titleSpanish":" Restaurante .",
-            "desciption":"Restaurant- Restaurante. ",
+            "title":"Restaurant",
+            "titleSpanish":" Restaurante",
+            "desciption":"Restaurant- Restaurante",
             "id_theme":"2",
             "img":"https://drive.google.com/uc?id=1-ce0AcVPDXuidB_CmvyDOytsjJIB8bZv"
         }, 
         {
             "id":"55",
-            "title":"Mall.",
-            "titleSpanish":" Centro comercial .",
-            "desciption":"Mall- Centro comercial. ",
+            "title":"Mall",
+            "titleSpanish":" Centro comercial",
+            "desciption":"Mall- Centro comercial",
             "id_theme":"2",
             "img":"https://drive.google.com/uc?id=1682g_qy2XsVDZ1rSV7zSeaCXrCcTvW2l"
         }, 
         {
             "id":"56",
-            "title":"Bakery.",
-            "titleSpanish":" Panadería.",
-            "desciption":"Bakery- Panadería. ",
+            "title":"Bakery",
+            "titleSpanish":" Panadería",
+            "desciption":"Bakery- Panadería",
             "id_theme":"2",
             "img":"https://drive.google.com/uc?id=1MaWvQFegN_D2cEtaRXXSeU4CzolEJEpz"
         }, 
         {
             "id":"57",
-            "title":"Airport.",
-            "titleSpanish":" Aeropuerto. ",
-            "desciption":"Airport-Aeropuerto . ",
+            "title":"Airport",
+            "titleSpanish":" Aeropuerto",
+            "desciption":"Airport-Aeropuerto",
             "id_theme":"2",
             "img":"https://drive.google.com/uc?id=1sItMGlTflvsikgFmDlgK9MyqP9U1EGUU"
         },
         {
             "id":"58",
-            "title":"Pharmacy.",
-            "titleSpanish":" Farmacia. ",
-            "desciption":"Pharmacy-Farmacia . ",
+            "title":"Pharmacy",
+            "titleSpanish":" Farmacia",
+            "desciption":"Pharmacy-Farmacia",
             "id_theme":"2",
             "img":"https://drive.google.com/uc?id=1gNIDoay20_uTTdgNzYX8sAEcSdHqwkDe"
         }, 
@@ -439,7 +439,7 @@
             "id":"59",
             "title":"Hotel",
             "titleSpanish":" Hotel",
-            "desciption":"Hotel-hotel. ",
+            "desciption":"Hotel-hotel",
             "id_theme":"2",
             "img":"https://drive.google.com/uc?id=1Agu3T5O1h0yon-o92vUrdrNgh_Or2hWk"
         }, 
@@ -463,7 +463,7 @@
             "id":"62",
             "title":"Coffee shop",
             "titleSpanish":" Cafetería",
-            "desciption":"Coffee shop-Cafetería  ",
+            "desciption":"Coffee shop-Cafetería ",
             "id_theme":"2",
             "img":"https://drive.google.com/uc?id=1GUhYY6VRGt5xupRLzY81ooUB3e3-UCUN"
         }, 
@@ -471,7 +471,7 @@
             "id":"63",
             "title":"Supermarket",
             "titleSpanish":" Supermercado",
-            "desciption":"Supermarket-Supermercado  ",
+            "desciption":"Supermarket-Supermercado ",
             "id_theme":"2",
             "img":"https://drive.google.com/uc?id=1c17aNAYUtrqY6vGWPIvR8zfGomvZBX5Z"
         },
@@ -526,7 +526,7 @@
         {
             "id":"69",
             "title":"Uncle",
-            "titleSpanish":"Tío ",
+            "titleSpanish":"Tío",
             "desciption":"Uncle/Tío",
             "id_theme":"4",
             "img":"https://drive.google.com/uc?id=1uHQjLkyUeTTMb6nDHUntzJKBEvdeVr0P"
@@ -538,7 +538,682 @@
             "desciption":"Aunt/ Tía",
             "id_theme":"4",
             "img":"https://drive.google.com/uc?id=1Uj-bkieCI7Dh6S4dD9GEYiTUjyDYp_zg"
+        },
+        {
+            "id":"71",
+            "title":"Apple",
+            "titleSpanish":"Manzana",
+            "desciption":"Manzana",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1rMsr0ixQZPTUtXU1M9AxK-uVlqAjxS-O"
+        },
+        {
+            "id":"72",
+            "title":"Pear",
+            "titleSpanish":"Pera",
+            "desciption":"Pera",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=14v1XvK5HTjdSohDh-gcr6betHYnPu6Id"
+        },
+        {
+            "id":"73",
+            "title":"Grapes",
+            "titleSpanish":"Uva",
+            "desciption":"Uva",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1MkWKzbT2p8x1ZLhu81WXtkxiKYxKrxlq"
+        },
+        {
+            "id":"74",
+            "title":"Orange",
+            "titleSpanish":"Naranja",
+            "desciption":"Naranja",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1OjWxiknKvDXWocMifZdWQMY93PvZ83Hm"
+        },
+        {
+            "id":"75",
+            "title":"Pineapple",
+            "titleSpanish":"Piña",
+            "desciption":"Piña",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1NN7M9OwO5mMcgOZ9ZH8hh1gEEfGF_TPX"
+        },
+        {
+            "id":"76",
+            "title":"Banana",
+            "titleSpanish":"Banano",
+            "desciption":"Banano",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1Y4rBDp2vwFKYv6g7kwltL_lQYIteWmqR"
+        },
+        {
+            "id":"77",
+            "title":"Watermelon",
+            "titleSpanish":"Sandía",
+            "desciption":"Sandía",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1I5QfSSuft4K-g8VSuEIGddqaeqRm1Qhw"
+        },
+        {
+            "id":"78",
+            "title":"Strawberries",
+            "titleSpanish":"Fresas",
+            "desciption":"Fresas",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1uVw5X50mUE0z8HVFycuAAjNY3t22TOBw"
+        },
+        {
+            "id":"79",
+            "title":"Blackberries",
+            "titleSpanish":"Mora",
+            "desciption":"Mora",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1jsbUDywUHzJiKMmNytyIVTURfE2V9G_8"
+        },
+        {
+            "id":"80",
+            "title":"Cherries",
+            "titleSpanish":"Cereza",
+            "desciption":"Cereza",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1PrsmNgFfbuN96YRdnnEHy3uLK1H9FRcB"
+        },
+        {
+            "id":"81",
+            "title":"Potato",
+            "titleSpanish":"Papa",
+            "desciption":"Papa",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1VMlgABlPYxOjOgxYaYxwr67BT7UCH2d9"
+        },
+        {
+            "id":"82",
+            "title":"Lettuce",
+            "titleSpanish":"Lechuga",
+            "desciption":"Lechuga",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1gMDiKtKvlwjzjJ1he4OGUEC4lPGW9sJA"
+        },
+        {
+            "id":"83",
+            "title":"Carrot",
+            "titleSpanish":"Zanahoria",
+            "desciption":"Zanahoria",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1h24RHNyl1Oaim9JlOQBEPErKgrjjYPrP"
+        },
+        {
+            "id":"84",
+            "title":"Broccoli",
+            "titleSpanish":"Brócoli",
+            "desciption":"Brócoli",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1B_s9JRWVZrYS9p-2RKPN-OxOq0cfsq_v"
+        },
+        {
+            "id":"85",
+            "title":"Cauliflower",
+            "titleSpanish":"Coliflor",
+            "desciption":"Coliflor",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1vOIPH_PLdUakQYdqITBP54poNB6uYgcB"
+        },
+        {
+            "id":"86",
+            "title":"Tomato",
+            "titleSpanish":"Tomate",
+            "desciption":"Tomate",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=14JhjqnBdeXyL9u9QhCj1Te6rZjXAvV6Q"
+        },
+        {
+            "id":"87",
+            "title":"Onion",
+            "titleSpanish":"Cebolla",
+            "desciption":"Cebolla",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1MkON9zTw6SdpH88P3T-8KtEElY3nxhjv"
+        },
+        {
+            "id":"88",
+            "title":"Garlic",
+            "titleSpanish":"Ajo",
+            "desciption":"Ajo",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=16aOM4RFvcIg97Ecd25pykDfM8l_1JOYG"
+        },
+        {
+            "id":"89",
+            "title":"Pork",
+            "titleSpanish":"Cerdo",
+            "desciption":"Cerdo",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=16K4wJiaYaVXa4RHo1LRac5I_4JArpZts"
+        },
+        {
+            "id":"90",
+            "title":"Beef",
+            "titleSpanish":"Res",
+            "desciption":"Res",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1_IGXq4-Tc-F_T9EUoVO09oYtdpw_z0mg"
+        },
+        {
+            "id":"91",
+            "title":"Chicken",
+            "titleSpanish":"Pollo",
+            "desciption":"Pollo",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1NhiCvcO1OEykGa_e0cHsoy7CE63xrSQJ"
+        },
+        {
+            "id":"92",
+            "title":"Lamb",
+            "titleSpanish":"Cordero",
+            "desciption":"Cordero",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1G-vKo31Di9MfZbUugdS_DheOGrc9mFpX"
+        },
+        {
+            "id":"93",
+            "title":"Fish",
+            "titleSpanish":"Pescado",
+            "desciption":"Pescado",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1mb659B2lMByripbF_hxzD1O4CPLkNpv8"
+        },
+        {
+            "id":"94",
+            "title":"Bacon",
+            "titleSpanish":"Tocino",
+            "desciption":"Tocino",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=175RMPl1X6mYH6jWqIllZlRoWX73MRRq4"
+        },
+        {
+            "id":"95",
+            "title":"Hamburger",
+            "titleSpanish":"Hamburguesa",
+            "desciption":"Hamburguesa",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1nl79rGHV7rRudrN4sVDjTQiyrSKkdsCj"
+        },
+        {
+            "id":"96",
+            "title":"Hot Dog",
+            "titleSpanish":"Perro caliente",
+            "desciption":"Perro caliente",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=15dJ8nwSwsidSi1-xTDY4X0lmZzHO1cE5"
+        },
+        {
+            "id":"97",
+            "title":"Fried Chicken",
+            "titleSpanish":"Pollo frito",
+            "desciption":"Perro frito",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=12QnBUFw23aLtwYDrb76pAd9ZycJO1DuB"
+        },
+        {
+            "id":"98",
+            "title":"French Fries",
+            "titleSpanish":"Papas fritas",
+            "desciption":"Papas fritas",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1-VQJotSz9Y0urAOJzOtaYi5qIrxh6dlo"
+        },
+        {
+            "id":"99",
+            "title":"Ice cream",
+            "titleSpanish":"Helado",
+            "desciption":"Helado",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1UrPpiHk8nMB9ODAfPZKSBGyybWkmML4M"
+        },
+        {
+            "id":"100",
+            "title":"Popcorn",
+            "titleSpanish":"Palomitas",
+            "desciption":"Palomitas",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=16AERB3bLg1JFyNOn1zf15_u1GZLYoPF2"
+        },
+        {
+            "id":"101",
+            "title":"Pizza",
+            "titleSpanish":"Pizza",
+            "desciption":"Pizza",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1RzK1zQa8hRtgVtvNyEVtrKZ1EgxBfIk0"
+        },
+        {
+            "id":"102",
+            "title":"Cake",
+            "titleSpanish":"Pastel",
+            "desciption":"Pastel",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1xyIHnJUJI2T1Ov4gZ_F392Xc8rYCjAxb"
+        },
+        {
+            "id":"103",
+            "title":"Cookies",
+            "titleSpanish":"Galletas",
+            "desciption":"Galletas",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1J9NwJmrOTktFf_1I0Y02YsiEZS4H_Bq1"
+        },
+        {
+            "id":"104",
+            "title":"Breakfast",
+            "titleSpanish":"Desayuno",
+            "desciption":"Desayuno",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1Dj_t9z9caNv0oeMoeeXebJDlhFDVOuMA"
+        },
+        {
+            "id":"105",
+            "title":"Lunch",
+            "titleSpanish":"Almuerzo",
+            "desciption":"Almuerzo",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1h_-BHlVckDU-uKVEFGbPERNnCtb5Qfps"
+        },
+        {
+            "id":"106",
+            "title":"Dinner",
+            "titleSpanish":"Cena",
+            "desciption":"Cena",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1VQPJ2CfbAqirHKbzRUjMWsIIyGLiTzhj"
+        },
+        {
+            "id":"107",
+            "title":"Snack",
+            "titleSpanish":"Merienda",
+            "desciption":"Merienda",
+            "id_theme":"6",
+            "img":"https://drive.google.com/uc?id=1yPRY3LELicQXnwRIW91QdCPw_8rsy7xH"
+        },
+        {
+            "id":"108",
+            "title":"I wake up.",
+            "titleSpanish":"Yo me despierto.",
+            "desciption":"Conjugación del verbo despertarse en primera persona singular",
+            "id_theme":"5",
+            "img":"https://drive.google.com/uc?id=1lolIivnOE1Ab5LynpYWBjgqx2meufvgk"  
+        },
+        {
+            "id":"109",
+            "title":"I start work at 7:00 a.m.",
+            "titleSpanish":"Yo inicio a trabajar a las 7:00 a.m.",
+            "desciption":"Frase para indicar a cual hora inicia a trabajar",
+            "id_theme":"5",
+            "img":"https://drive.google.com/uc?id=1YGGAjEyQki9QLi_wWM17FhEXWXIYesMr" 
+        },
+        {
+            "id":"110",
+            "title":"I have breakfast.",
+            "titleSpanish":"Yo desayuno.",
+            "desciption":"Conjugación del verbo desayunar en primera persona singular",
+            "id_theme":"5",
+            "img":"https://drive.google.com/uc?id=1T_GuIQ7q3Q9wZIoqJa_pOD2RDo8Z9Jht" 
+        },
+        {
+            "id":"111",
+            "title":"I get up.",
+            "titleSpanish":"Yo me levanto.",
+            "desciption":"Conjugación del verbo levantarse en primera persona singular",
+            "id_theme":"5",
+            "img":"https://drive.google.com/uc?id=1Ot5d5LrpRD41u4kcobcuIz-Rs8xuE_Sh"
+        },
+        {
+            "id":"112",
+            "title":"I feed the dog.",
+            "titleSpanish":"Yo alimento al perro.",
+            "desciption":"Conjugación del verbo alimentar en primera persona singular",
+            "id_theme":"5",
+            "img":"https://drive.google.com/uc?id=1T0Jlvq004F8c-B0IPdSt58Kpd_27CNVJ"
+        },
+        {
+            "id":"113",
+            "title":"I watch TV.",
+            "titleSpanish":"Yo veo televisión.",
+            "desciption":"Conjugación del verbo ver en primera persona singular",
+            "id_theme":"5",
+            "img":"https://drive.google.com/uc?id=1-AOgAi3HRoaJBuoy5ToVBy435rYEibGM"
+        },
+        {
+            "id":"114",
+            "title":"I read a book.",
+            "titleSpanish":"Yo leo un libro.",
+            "desciption":"Conjugación del verbo leer en primera persona singular",
+            "id_theme":"5",
+            "img":"https://drive.google.com/uc?id=1tuQODzDpDJ2k7fG-QXQJsn1QTuAXV-bx"
+        },
+        {
+            "id":"115",
+            "title":"I go to bed at 8:00 p.m.",
+            "titleSpanish":"Yo voy a la cama a las 8:00 p.m.",
+            "desciption":"Expresión para indicar que vas a ir a la cama",
+            "id_theme":"5",
+            "img":"https://drive.google.com/uc?id=1Ujq11koER-BuAk8sW7ycS2t4-7C2UXjB"
+        },
+        {
+            "id":"116",
+            "title":"I go home.",
+            "titleSpanish":"Yo voy a casa.",
+            "desciption":"Conjugación del verbo ir en primera persona singular",
+            "id_theme":"5",
+            "img":"https://drive.google.com/uc?id=1bS1QOBY6OLCm6iV3dHupC6npGbdRbDdC"
+        },
+        {
+            "id":"117",
+            "title":"I finish classes at 3:00 p.m.",
+            "titleSpanish":"Yo termino clases a las 3:00 p.m.",
+            "desciption":"Conjugación del verbo terminar en primera persona singular",
+            "id_theme":"5",
+            "img":"https://drive.google.com/uc?id=1pwsXt8fBsSDKbAkpGCbteyQxu77dUrpc"
+        },
+        {
+            "id":"118",
+            "title":"I do my homework after school.",
+            "titleSpanish":"Yo hago mi tarea después de ir a la escuela.",
+            "desciption":"Conjugación del verbo hacer en primera persona singular",
+            "id_theme":"5",
+            "img":"https://drive.google.com/uc?id=1U3h7C7FzdM__OGvD0kjFleSznDy9a2Wo"
+        },
+        {
+            "id":"119",
+            "title":"I go out with my parents on weekends.",
+            "titleSpanish":"Yo salgo con mis padres los fines de semana.",
+            "desciption":"Conjugación del verbo salir hacer en primera persona singular",
+            "id_theme":"5",
+            "img":"https://drive.google.com/uc?id=15nKFzp_gdCotCC5QUuf2KfIjLgwYpAC9"
+        },
+        {
+            "id":"120",
+            "title":"To go to the mall.",
+            "titleSpanish":"Ir al centro comercial.",
+            "desciption":"Expresión para indicar que vas al centro comercial",
+            "id_theme":"7",
+            "img":"https://drive.google.com/uc?id=1y7XbCES0jraTyFBpMLhO0HQltBJm7rvV"
+        },
+        {
+            "id":"121",
+            "title":"To go to the pool.",
+            "titleSpanish":"Ir a la piscina.",
+            "desciption":"Expresión para indicar que vas a la piscina",
+            "id_theme":"7",
+            "img":"https://drive.google.com/uc?id=1aP10F0ceIUTsnqTACAVCOkTxnp9ji977"
+        },
+        {
+            "id":"122",
+            "title":"To have a sleepover.",
+            "titleSpanish":"Tener una pijamada.",
+            "desciption":"Reunión de amigos para quedarse a domir juntos",
+            "id_theme":"7",
+            "img":"https://drive.google.com/uc?id=1Alwe3N7a2y9t6UBQPivWDp0yVNiOf0kj"
+        },
+        {
+            "id":"123",
+            "title":"To watch a DVD (movie).",
+            "titleSpanish":"Ver una película.",
+            "desciption":"Expresión para indicar que vas a ver una película",
+            "id_theme":"7",
+            "img":"https://drive.google.com/uc?id=1hhCuJNx5Am65AFOGJS9z1yYpJC38m68n"
+        },
+        {
+            "id":"124",
+            "title":"To go to the cinema.",
+            "titleSpanish":"Ir al cine.",
+            "desciption":"Expresión para indicar que vas al cine",
+            "id_theme":"7",
+            "img":"https://drive.google.com/uc?id=11XWWc9IvcDrNVXpZlqvExseGTuZiZ_6X"
+        },
+        {
+            "id":"125",
+            "title":"To send text messages.",
+            "titleSpanish":"Enviar mensajes de texto.",
+            "desciption":"Verbo enviar en infinitivo",
+            "id_theme":"7",
+            "img":"https://drive.google.com/uc?id=1fjiAaEWFwdLcknN_hNSjJ6vnBA9K8mIK"
+        },
+        {
+            "id":"126",
+            "title":"To talk by cell phone.",
+            "titleSpanish":"Hablar por teléfono.",
+            "desciption":"Verbo hablar en infinitivo",
+            "id_theme":"7",
+            "img":"https://drive.google.com/uc?id=1-nSXKX3p_1NDLaqgpC5ksco6ArVDtoEm"
+        },
+        {
+            "id":"127",
+            "title":"To play board games.",
+            "titleSpanish":"Jugar juegos de mesa.",
+            "desciption":"Verbo jugar en infinitivo",
+            "id_theme":"7",
+            "img":"https://drive.google.com/uc?id=1ytGI9AmC1RBgfhXhdDosb7Wzm0kWoiUE"
+        },
+        {
+            "id":"128",
+            "title":"To play cards.",
+            "titleSpanish":"Jugar cartas.",
+            "desciption":"Verbo jugar en infinitivo",
+            "id_theme":"7",
+            "img":"https://drive.google.com/uc?id=1_Yx-tbbQltXlVwm-SxfIvekWImbNo82g"
+        },
+        {
+            "id":"129",
+            "title":"I like to read.",
+            "titleSpanish":"Me gusta leer.",
+            "desciption":"Gustos/ Preferencias",
+            "id_theme":"8",
+            "img":"https://drive.google.com/uc?id=16ea_2HxErHvaGqSRerbNxUrJYMRQUYHP"
+        },
+        {
+            "id":"130",
+            "title":"I don't like listening to music.",
+            "titleSpanish":"No me gusta escuchar música.",
+            "desciption":"Disgustos/Preferencias",
+            "id_theme":"8",
+            "img":"https://drive.google.com/uc?id=1dZi1fo6XGziMQNpTXKT7p6tn9IMwZNcc"
+        },
+        {
+            "id":"131",
+            "title":"I hate eating spicy food.",
+            "titleSpanish":"Odio comer comida picante.",
+            "desciption":"Disgustos/ Preferencias",
+            "id_theme":"8",
+            "img":"https://drive.google.com/uc?id=1gjvefttY2mf770vSpA6-IdfEulb4s81A"
+        },
+        {
+            "id":"132",
+            "title":"Pasta is delicious.",
+            "titleSpanish":"La pasta es deliciosa.",
+            "desciption":"Gustos/Preferencias",
+            "id_theme":"8",
+            "img":"https://drive.google.com/uc?id=1rBQhtDALFY9daPpCDyCHT74yUmWpppdG"
+        },
+        {
+            "id":"133",
+            "title":"Playing cards is boring.",
+            "titleSpanish":"Jugar cartas es aburrido.",
+            "desciption":"Disgustos/Preferencias",
+            "id_theme":"8",
+            "img":"https://drive.google.com/uc?id=1eRPuYxBxzVe0NY46SYaUxnklSXk8XnPQ"
+        },
+        {
+            "id":"134",
+            "title":"I like.",
+            "titleSpanish":"Me gusta.",
+            "desciption":"Gustos/Preferencias",
+            "id_theme":"8",
+            "img":"https://drive.google.com/uc?id=1thP7Qa8DUvWLcyTgllhYNb0mX8X-eWTz"
+        },
+        {
+            "id":"135",
+            "title":"I do not like.",
+            "titleSpanish":"No me gusta.",
+            "desciption":"Disgustos/Preferencias",
+            "id_theme":"8",
+            "img":"https://drive.google.com/uc?id=1VSIf5RJmP1Q02GOV40OcIf8HOtXrmr6y"
+        },
+        {
+            "id":"136",
+            "title":"It's funny.",
+            "titleSpanish":"Es divertido.",
+            "desciption":"Gustos/Preferencias",
+            "id_theme":"8",
+            "img":"https://drive.google.com/uc?id=11O8YiHKIsRPYN04a8qUg6QJMDypAOrMv"
+        },
+        {
+            "id":"137",
+            "title":"It is boring.",
+            "titleSpanish":"Es aburrido.",
+            "desciption":"Disgustos/Preferencias",
+            "id_theme":"8",
+            "img":"https://drive.google.com/uc?id=1UoYPI-C_KKwNj9wRa5nC_P2HRw-AGteZ"
+        },
+        {
+            "id":"138",
+            "title":"I love to ride my bike.",
+            "titleSpanish":"Amo pasear en bicicleta.",
+            "desciption":"Gustos/Preferencias",
+            "id_theme":"8",
+            "img":"https://drive.google.com/uc?id=1rrCtw8nhir6L_Pe62nW5NAqoqPITNhGZ"
+        },
+        {
+            "id":"139",
+            "title":"How do you say casa in English?",
+            "titleSpanish":"¿Cómo se dice casa en inglés?",
+            "desciption":"Formular una pregunta",
+            "id_theme":"3",
+            "img":"https://drive.google.com/uc?id=1wTRyzLyB4QZwjzXJmlHD-1mUZGzlACqQ"
+        },
+        {
+            "id":"140",
+            "title":"How do you say/ pronounce?",
+            "titleSpanish":"¿Cómo se dice/pronuncia?",
+            "desciption":"Formular una pregunta",
+            "id_theme":"3",
+            "img":"https://drive.google.com/uc?id=17rtxuy892oqiulSRLUK_kFGhAKUcJh0d"
+        },
+        {
+            "id":"141",
+            "title":"Raise your hand.",
+            "titleSpanish":"Levante la mano.",
+            "desciption":"Orden",
+            "id_theme":"3",
+            "img":"https://drive.google.com/uc?id=1Q7vP4OZy_F9V1rpJQpVVb0Y4WxemMh6R"
+        },
+        {
+            "id":"142",
+            "title":"May I come in?",
+            "titleSpanish":"¿Puedo pasar?",
+            "desciption":"Formular una pregunta",
+            "id_theme":"3",
+            "img":"https://drive.google.com/uc?id=1Zg2bVFDcZn0KWm8U-oL_oBCh5azsNwxG"
+        },
+        {
+            "id":"143",
+            "title":"Could you repeat, please?",
+            "titleSpanish":"¿Puede repetir, por favor?",
+            "desciption":"Formular una pregunta",
+            "id_theme":"3",
+            "img":"https://drive.google.com/uc?id=1ZyCaqH3w5ITU8vy9g5MKy4faE0u_sJ-f"
+        },
+        {
+            "id":"144",
+            "title":"May I go to the restroom?",
+            "titleSpanish":"¿Puedo ir al baño?",
+            "desciption":"Formular una pregunta",
+            "id_theme":"3",
+            "img":"https://drive.google.com/uc?id=1b-y-_g4Km39oTFZxCQoRwC00fXKgeKuk"
+        },
+        {
+            "id":"145",
+            "title":"May I borrow your pencil?",
+            "titleSpanish":"¿Me presta su lápiz?",
+            "desciption":"Formular una pregunta",
+            "id_theme":"3",
+            "img":"https://drive.google.com/uc?id=1HdPkY6nl5SwQ11ud6c6e4OiwOqoo6N8h"
+        },
+        {
+            "id":"146",
+            "title":"What is your name?",
+            "titleSpanish":"¿Cuál es tu nombre?",
+            "desciption":"Formular una pregunta",
+            "id_theme":"3",
+            "img":"https://drive.google.com/uc?id=1e1ERlWHfEomAsozE-L36EzhkUejuNnCA"
+        },
+        {
+            "id":"147",
+            "title":"Where do you live?",
+            "titleSpanish":"¿Dónde vives?",
+            "desciption":"Formular una pregunta",
+            "id_theme":"3",
+            "img":"https://drive.google.com/uc?id=1eiwmhHDx1rjJa98fGzNHaTgx5IIJ4HVs"
+        },
+        {
+            "id":"148",
+            "title":"How old are you?",
+            "titleSpanish":"¿Cuántos años tienes?",
+            "desciption":"Formular una pregunta",
+            "id_theme":"3",
+            "img":"https://drive.google.com/uc?id=1TMLeTJxxzgemr3aTEXDSO53H3DZN8Kfc"
+        },
+        {
+            "id":"149",
+            "title":"What is your phone number?",
+            "titleSpanish":"¿Cuál es tu número telefónico?",
+            "desciption":"Formular una pregunta",
+            "id_theme":"3",
+            "img":"https://drive.google.com/uc?id=1DWXLLLKX2vWo3p-1FUSSi0kj-oSqVKBL"
+        },
+        {
+            "id":"150",
+            "title":"What is your email?",
+            "titleSpanish":"¿Cuál es tu correo electrónico?",
+            "desciption":"Formular una pregunta",
+            "id_theme":"3",
+            "img":"https://drive.google.com/uc?id=1BnENFc2v9BBj9K6iTTCo0ByJYSe0wy6x"
+        },
+        {
+            "id":"151",
+            "title":"What is your nationality?",
+            "titleSpanish":"¿Cuál es tu nacionalidad?",
+            "desciption":"Formular una pregunta",
+            "id_theme":"3",
+            "img":"https://drive.google.com/uc?id=1BHTVCGpnBLf18CLZtKbtBYAOJUpUzO-m"
+        },
+        {
+            "id":"152",
+            "title":"What is your address?",
+            "titleSpanish":"¿Cuál es tu dirección?",
+            "desciption":"Formular una pregunta",
+            "id_theme":"3",
+            "img":"https://drive.google.com/uc?id=1hNr1q3bb3P4cMpAoSNWBPWiaj1kVg05a"
+        },
+        {
+            "id":"153",
+            "title":"What is your marital status?",
+            "titleSpanish":"¿Cuál es tu estado civil?",
+            "desciption":"Formular una pregunta",
+            "id_theme":"3",
+            "img":"https://drive.google.com/uc?id=18sq1xyt8UkwMpyN4R8-LtrXP5pmn7J7L"
+        },
+        {
+            "id":"154",
+            "title":"What is your gender?",
+            "titleSpanish":"¿Cuál es tu género?",
+            "desciption":"Formular una pregunta",
+            "id_theme":"3",
+            "img":"https://drive.google.com/uc?id=1xnmkZEA2gxiZYWMOUhI2S3WspkraxNJd"
         }
+
+
+
          
          
          
