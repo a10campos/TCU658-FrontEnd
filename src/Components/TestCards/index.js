@@ -12,7 +12,7 @@ export default function TestCards(props) {
     const [input,setInput] = useState('');
     const [showSearch,setShowSearch] = useState("");
     const [totalQuestions,setTotalQuestions] = useState(10);
-    const [buttonText,setButtonText] = useState("Next");
+    const [buttonText,setButtonText] = useState("Siguiente");
     const {level_id,unit_id,theme_id} = useParams();
     const [isfinished,setIsFinished] = useState(false);
 
@@ -64,16 +64,15 @@ export default function TestCards(props) {
         <body className="h-full">
         <h1 className="flex items-center justify-center m-4 text-4xl font-bold mt-10 mb-8">Practice</h1>
         <div className="flex flex-col items-center justify-center">
-          <span>{actualQuestion+1}</span>
           <ProgressBar state={(actualQuestion+1)*100/totalQuestions-1}></ProgressBar>
           <span className="flex  p-2 justify-center itemns-center text-2xl font-bold">Score: {score}</span>
           </div>
-            <div className="w-[100%] flex flex-col mt-2 items-center px-2 justify-center">
-              <div className={`flex flex-col h-[250px] w-[200px] rounded-xl items-center m-2 ${showSearch}`}>
-                <img alt=" "className=" mt-4 w-32 h-32 rounded-xl shadow-2xl" src={props.filter[actualQuestion].img}/>
+            <div className="w-[100%] flex flex-col my-2 items-center px-2 justify-center">
+              <div className={`flex flex-col h-[300px] w-[280px] rounded-2xl items-center m-2 ${showSearch}`}>
+                <img alt=" "className=" mt-4 w-40 h-40 rounded-xl shadow-2xl" src={props.filter[actualQuestion].img}/>
                 <textarea value={input} onChange={takeChangeInput}
-                placeholder="What it's" className=" p-2 rounded-md placeholder:text-center w-[80%] text-xl border border-[#e6e6e6] mt-4"></textarea>
-                <span className=" text-xl text-gray-500 mt-2 dark:text-gray-400">{props.filter[actualQuestion].titleSpanish}</span>
+                placeholder="What is it?" className=" p-2 rounded-md placeholder:text-center w-[80%] text-xl border border-[#e6e6e6] mt-4"></textarea>
+                <span className=" text-center text-xl text-gray-500 mt-2 mb-2 dark:text-gray-400">{props.filter[actualQuestion].titleSpanish}</span>
               </div>
               <div>
                 <button className="border rounded-xl p-2 w-[150px] bg-blue text-white" onClick={handleAnswerSubmit}>{buttonText}</button>

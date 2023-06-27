@@ -19,7 +19,7 @@
         "id":"3",
         "title":"Good Morning",
         "titleSpanish":"Buenos días",
-        "desciption":"Saludo de buenos dias en las mañanas",
+        "desciption":"Saludo de buenos días en las mañanas",
         "id_theme":"1",
         "img":"https://drive.google.com/uc?id=1e98u-oJwwqsH5wUSY_caZJoiifmMFyf3"
         },
@@ -27,7 +27,7 @@
             "id":"4",
             "title":"Good afternoon",
             "titleSpanish":"Buenas Tardes",
-            "desciption":"Saludo",
+            "desciption":"Saludo de buenas tardes",
             "id_theme":"1",
             "img":"https://drive.google.com/uc?id=1lutxYGxCgTk6o-CavemuwCKGFlh_jJMF"
         },
@@ -35,7 +35,7 @@
             "id":"5",
             "title":"Good evening",
             "titleSpanish":"Buenas noches",
-            "desciption":"Saludo de noches",
+            "desciption":"Saludo de noche",
             "id_theme":"1",
             "img":"https://drive.google.com/uc?id=1u5Nuqb-Ff8MSgtfgFaEBvRSAwyrfgynl"
         },
@@ -43,7 +43,7 @@
             "id":"6",
             "title":"Good night",
             "titleSpanish":"Buenas Noches",
-            "desciption":"Saludo",
+            "desciption":"Saludo de noche",
             "id_theme":"1",
             "img":"https://drive.google.com/uc?id=1LZao0hv6Pb7oeYUbINDfnKtcP6wL0V2P"
         },
