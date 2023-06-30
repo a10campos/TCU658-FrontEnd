@@ -67,17 +67,13 @@ export default function TestCards(props) {
           <ProgressBar state={(actualQuestion+1)*100/totalQuestions-1}></ProgressBar>
           <span className="flex  p-2 justify-center itemns-center text-2xl font-bold">Score: {score}</span>
           </div>
-            <div className="w-[100%] flex flex-col my-2 items-center px-2 justify-center">
-              <div className={`flex flex-col h-[300px] w-[280px] rounded-2xl items-center m-2 ${showSearch}`}>
+            <div className="w-[100%] flex flex-col mt-2 items-center px-2 justify-center">
+              <div className={`flex flex-col h-[300px] w-[280px] rounded-2xl items-center ${showSearch}`}>
                 <img alt=" "className=" mt-4 w-40 h-40 rounded-xl shadow-2xl" src={props.filter[actualQuestion].img}/>
                 <textarea value={input} onChange={takeChangeInput}
-                placeholder="What is it?" className=" p-2 rounded-md placeholder:text-center w-[80%] text-xl border border-[#e6e6e6] mt-4"></textarea>
-                <span className=" text-center text-xl text-gray-500 mt-2 mb-2 dark:text-gray-400">{props.filter[actualQuestion].titleSpanish}</span>
+                placeholder="What is it?" className=" p-2 rounded-md placeholder:text-center w-[80%] text-xl border border-[#e6e6e6] mt-6"></textarea>
               </div>
-              <div>
-                <button className="border rounded-xl p-2 w-[150px] bg-blue text-white" onClick={handleAnswerSubmit}>{buttonText}</button>
-                
-              </div>
+                <button className="border rounded-xl p-3 w-[150px] bg-blue text-white mb-12" onClick={handleAnswerSubmit}>{buttonText}</button>
             </div>
       </body>
      
