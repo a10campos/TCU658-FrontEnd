@@ -13,7 +13,7 @@
         "titleSpanish":"Hola",
         "desciption":"Saludo informal",
         "id_theme":"1",
-        "img":"https://drive.google.com/uc?id=1f6pBHjrK3EifqdxWWJh52hquQHuCEPWi"
+        "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hello%2C%20hi%20there%2FHi.jpeg?alt=media&token=72aa3f2d-60f8-4fb2-b2d5-bb5642b4b42f"
     },
     {
         "id":"3",
@@ -26,7 +26,7 @@
         {
             "id":"4",
             "title":"Good afternoon",
-            "titleSpanish":"Buenas Tardes",
+            "titleSpanish":"Buenas tardes",
             "desciption":"Saludo de buenas tardes",
             "id_theme":"1",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hello%2C%20hi%20there%2Fgood%20afternoon.jpg?alt=media&token=e0071168-efd7-411d-8f4f-8fd1e79ff730"
@@ -42,7 +42,7 @@
         {
             "id":"6",
             "title":"Good night",
-            "titleSpanish":"Buenas Noches",
+            "titleSpanish":"Buenas noches",
             "desciption":"Saludo de noche",
             "id_theme":"1",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hello%2C%20hi%20there%2FGoodnight.png?alt=media&token=5ab7aee6-1001-44f0-a946-53f11f5d9daf"
@@ -846,7 +846,7 @@
         {
             "id":"109",
             "title":"I start work at 7:00 a.m.",
-            "titleSpanish":"Yo inicio a trabajar a las 7:00 a.m.",
+            "titleSpanish":"Yo comienzo a trabajar a las 7:00 a.m.",
             "desciption":"Frase para indicar a cual hora inicia a trabajar",
             "id_theme":"5",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2FI%20start%20work%20at%207_00%20a.m.jpg?alt=media&token=be023b4b-333b-4829-a624-3f077fb3433c" 
@@ -925,7 +925,7 @@
         },
         {
             "id":"119",
-            "title":"I go out with my parents.",
+            "title":"I go out with my family.",
             "titleSpanish":"Yo salgo con mis padres.",
             "desciption":"Conjugación del verbo salir hacer en primera persona singular",
             "id_theme":"5",
@@ -933,48 +933,48 @@
         },
         {
             "id":"120",
-            "title":"To go to the mall.",
-            "titleSpanish":"Ir al centro comercial.",
+            "title":"To go to the mall",
+            "titleSpanish":"Ir al centro comercial",
             "desciption":"Expresión para indicar que vas al centro comercial",
             "id_theme":"7",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2FTo%20go%20to%20the%20mall%20.jpg?alt=media&token=37f8376b-a04b-4732-a2c7-90b0c624ffe5"
         },
         {
             "id":"121",
-            "title":"To go to the pool.",
-            "titleSpanish":"Ir a la piscina.",
+            "title":"To go to the pool",
+            "titleSpanish":"Ir a la piscina",
             "desciption":"Expresión para indicar que vas a la piscina",
             "id_theme":"7",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2FTo%20go%20to%20the%20pool.jpg?alt=media&token=8fe39cf2-3c87-4f93-86da-77afe681cd2c"
         },
         {
             "id":"122",
-            "title":"To have a sleepover.",
-            "titleSpanish":"Tener una pijamada.",
+            "title":"To have a sleepover",
+            "titleSpanish":"Tener una pijamada",
             "desciption":"Reunión de amigos para quedarse a domir juntos",
             "id_theme":"7",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2FTo%20have%20a%20sleepover.jpg?alt=media&token=fdcad3c9-f79b-4025-92a6-fcb37a2648dd"
         },
         {
             "id":"123",
-            "title":"To watch a DVD (movie).",
-            "titleSpanish":"Ver una película.",
+            "title":"To watch a movie",
+            "titleSpanish":"Ver una película",
             "desciption":"Expresión para indicar que vas a ver una película",
             "id_theme":"7",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2FTo%20watch%20a%20DVD%20(movie).jpg?alt=media&token=7c63ea51-fb7a-45d5-a1cf-419973aeea0c"
         },
         {
             "id":"124",
-            "title":"To go to the cinema.",
-            "titleSpanish":"Ir al cine.",
+            "title":"To go to the cinema",
+            "titleSpanish":"Ir al cine",
             "desciption":"Expresión para indicar que vas al cine",
             "id_theme":"7",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2FGo%20to%20the%20cinema.jpg?alt=media&token=09e50f3b-31c8-4bd7-a567-b1a3d6be8c5d"
         },
         {
             "id":"125",
-            "title":"To send text messages.",
-            "titleSpanish":"Enviar mensajes de texto.",
+            "title":"To send text messages",
+            "titleSpanish":"Enviar mensajes de texto",
             "desciption":"Verbo enviar en infinitivo",
             "id_theme":"7",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2FTo%20send%20text%20messages.jpg?alt=media&token=646e96b6-9cac-4017-a141-abc66f304c2e"
@@ -1045,7 +1045,7 @@
         },
         {
             "id":"134",
-            "title":"I like.",
+            "title":"I like (something).",
             "titleSpanish":"Me gusta.",
             "desciption":"Gustos/Preferencias",
             "id_theme":"8",
@@ -1053,7 +1053,7 @@
         },
         {
             "id":"135",
-            "title":"I do not like.",
+            "title":"I do not like (something).",
             "titleSpanish":"No me gusta.",
             "desciption":"Disgustos/Preferencias",
             "id_theme":"8",
@@ -1085,16 +1085,16 @@
         },
         {
             "id":"139",
-            "title":"How do you say casa in English?",
-            "titleSpanish":"¿Cómo se dice casa en inglés?",
+            "title": "How do you say \"casa\" in English?",
+            "titleSpanish":"¿Cómo se dice \"casa\" en inglés?",
             "desciption":"Formular una pregunta",
             "id_theme":"3",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2FHow%20do%20you%20say%20casa%20in%20English_.jpg?alt=media&token=a3c1eb9e-9a5f-43e7-b9be-579398bab1a0"
         },
         {
             "id":"140",
-            "title":"How do you say/ pronounce?",
-            "titleSpanish":"¿Cómo se dice/pronuncia?",
+            "title":"How do you say/ pronounce this word?",
+            "titleSpanish":"¿Cómo se dice/pronuncia esta palabra?",
             "desciption":"Formular una pregunta",
             "id_theme":"3",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2FHow%20do%20you%20say_%20pronounce_.jpg?alt=media&token=4af584b7-4c4b-4e97-b93c-330136281be5"

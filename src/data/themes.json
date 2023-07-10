@@ -25,25 +25,25 @@
     },
     {
         "id":"5",
-        "Description":"My Daily routine",
+        "Description":"My daily Routine",
         "id_unit":"2",
         "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2FCardTheme.jpg?alt=media&token=af866af4-4098-40ff-867a-2fbc33aa63c8"
     },
     {
         "id":"6",
-        "Description":"Eating habits",
+        "Description":"Eating Habits",
         "id_unit":"2",
         "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FVegetables.jpeg?alt=media&token=1a31cab4-285b-4cd4-ad9c-961621b1c1af"
     },
     {
         "id":"7",
-        "Description":"Hanging out",
+        "Description":"Hanging Out",
         "id_unit":"2",
         "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2FCardTheme.jpg?alt=media&token=c15438df-7bd9-4513-aa22-c2999e435ebe"
     },
     {
         "id":"8",
-        "Description":"Thinks I like to do",
+        "Description":"Thinks I Like to Do",
         "id_unit":"2",
         "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Thinks%20I%20like%20to%20do%2FcardTheme.jpg?alt=media&token=688237d9-4591-4b92-b09d-e097c3f48cc6"
     }
