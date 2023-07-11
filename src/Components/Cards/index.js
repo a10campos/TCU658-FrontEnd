@@ -3,7 +3,7 @@ export default function Cards (props) {
 
     return (
         <>
-            <Link to={`/${props.link}`}>
+            <Link to={`/levels/${props.link}`}>
                 <div className="bg-transparent m-2">
                     <div className="flex bg-[#f6f6f6] rounded-md shadow-[0_2px_4px_0px_rgba(0,0,0,0.5)] overflow-hidden min-h-[86px]">      
                         <div className="flex flex-col whitespace-nowrap overflow-hidden text-ellipsis">

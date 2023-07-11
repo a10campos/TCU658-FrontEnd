@@ -26,7 +26,7 @@ function Vocabulary() {
           }
           </div>
           <div className="grid place-items-center">
-            <a href={`/${level_id}/${unit_id}/${theme_id}/test`}>
+            <a href={`/levels/${level_id}/${unit_id}/${theme_id}/test`}>
               <button  className="m-2 border bg-blue rounded-md p-4  border-[#e6e6e6] text-white">Let's Practice</button>
             </a>
           </div>

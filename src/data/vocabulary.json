@@ -425,7 +425,7 @@
             "titleSpanish":" Aeropuerto",
             "desciption":"Airport-Aeropuerto",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FAirport_.jpg?alt=media&token=0facd0b9-371b-408e-a943-c89010035edf"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FAirport.jpeg?alt=media&token=70db5510-093c-433c-a195-0e53e82a885d"
         },
         {
             "id":"58",
@@ -553,7 +553,7 @@
             "titleSpanish":"Pera",
             "desciption":"Pera",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FPear.jpg?alt=media&token=3ce1216b-49f1-42c0-b78c-54ad4eb99dd1"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FPear.avif?alt=media&token=25b96176-cddf-4952-a914-78953f6dfd59"
         },
         {
             "id":"73",
@@ -625,7 +625,7 @@
             "titleSpanish":"Papa",
             "desciption":"Papa",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FPotato.jpg?alt=media&token=a652e414-ecc0-4b65-be32-cc349ca62a3f"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fpotato.jpeg?alt=media&token=dba6d0e7-2ed6-4b70-93c5-dff895ad05a4"
         },
         {
             "id":"82",
@@ -657,8 +657,8 @@
             "titleSpanish":"Coliflor",
             "desciption":"Coliflor",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FCauliflower.jpg?alt=media&token=fceb7161-b794-4a53-b66d-bdb9c53f1b0c"
-        },
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FCauliflower.avif?alt=media&token=3389bd03-3ec9-4cb0-83a0-b7613c5c0139"
+        },        
         {
             "id":"86",
             "title":"Tomato",
@@ -865,7 +865,7 @@
             "titleSpanish":"Yo me levanto.",
             "desciption":"Conjugación del verbo levantarse en primera persona singular",
             "id_theme":"5",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2FI%20get%20up.jpg?alt=media&token=2266c4b6-48fd-4af4-997e-ba4b2a85d32e"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2Fget-up.jpg?alt=media&token=3d7a7984-8bbd-43ee-9f2d-7ee35af85fef"
         },
         {
             "id":"112",

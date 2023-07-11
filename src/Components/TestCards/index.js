@@ -62,12 +62,13 @@ export default function TestCards(props) {
     return (
         <>
         <body className="h-full">
-        <h1 className="flex items-center justify-center m-4 text-4xl font-bold mt-10 mb-8">Practice</h1>
+        <h1 className="flex items-center justify-center m-4 text-4xl font-bold mt-10 mb-6">Practice</h1>
         <div className="flex flex-col items-center justify-center">
           <ProgressBar state={(actualQuestion+1)*100/totalQuestions-1}></ProgressBar>
           <span className="flex  p-2 justify-center itemns-center text-2xl font-bold">Score: {score}</span>
           </div>
             <div className="w-[100%] flex flex-col mt-2 items-center px-2 justify-center">
+            <h2 className="flex items-center justify-center m-4 w-[400px] text-center">Type the word or expression exactly as it appears in the vocabulary section, including the punctuation marks.</h2>
               <div className={`flex flex-col h-[300px] w-[280px] rounded-2xl items-center ${showSearch}`}>
                 <img alt=" "className=" mt-4 w-40 h-40 rounded-xl shadow-2xl" src={props.filter[actualQuestion].img}/>
                 <textarea value={input} onChange={takeChangeInput}
