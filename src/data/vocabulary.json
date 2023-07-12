@@ -110,15 +110,7 @@
             "desciption":"Forma de responder y preguntar cómo se encuentra una persona.",
             "id_theme":"3",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2FFine%2C%20thanks%2C%20and%20you_.png?alt=media&token=4145023c-3d42-4348-9a12-6c64aca5b202"
-        }, 
-        {
-            "id":"15",
-            "title":"How old are you?",
-            "titleSpanish":" ¿Cuántos años tienes?",
-            "desciption":"Forma de preguntar cuantos años tiene una persona.",
-            "id_theme":"3",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2FHow%20old%20are%20you_.png?alt=media&token=8ad0ca1c-7765-4d62-8be7-fc61d55818a6"
-        }, 
+        },
         {
             "id":"16",
             "title":"Nice to meet you.",
@@ -545,7 +537,7 @@
             "titleSpanish":"Manzana",
             "desciption":"Manzana",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FApple.png?alt=media&token=f62ebfb3-3a52-4bbd-a38e-daca5f71e339"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FApple.png?alt=media&token=8f7dac0a-1ad3-4192-a672-d466a47134f7"
         },
         {
             "id":"72",
@@ -553,7 +545,7 @@
             "titleSpanish":"Pera",
             "desciption":"Pera",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FPear.avif?alt=media&token=25b96176-cddf-4952-a914-78953f6dfd59"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fpear.png?alt=media&token=b1fb18ab-21f5-4307-a266-1511c74db4e5"
         },
         {
             "id":"73",
@@ -561,7 +553,7 @@
             "titleSpanish":"Uva",
             "desciption":"Uva",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FGrapes.jpg?alt=media&token=6f9d31b7-ce9a-43da-a03c-858bd083d3d9"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fgrapes.png?alt=media&token=67be510d-0057-4986-9c0d-755d46a91c35"
         },
         {
             "id":"74",
@@ -569,7 +561,7 @@
             "titleSpanish":"Naranja",
             "desciption":"Naranja",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FOrange.jpg?alt=media&token=897089a7-c147-4a79-94e1-868c45e67e65"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Forange.png?alt=media&token=eb1c9c87-1c8c-41a7-a068-809531119ef1"
         },
         {
             "id":"75",
@@ -577,7 +569,7 @@
             "titleSpanish":"Piña",
             "desciption":"Piña",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FPineapple.jpg?alt=media&token=74c1d2ee-24be-4264-a9df-8dd16a5a7297"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fpineapple.png?alt=media&token=ebafc095-c0b8-4fcc-9f18-c2785bf41c07"
         },
         {
             "id":"76",
@@ -585,7 +577,7 @@
             "titleSpanish":"Banano",
             "desciption":"Banano",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FBanana.png?alt=media&token=ccb7d0af-c69b-41b4-a233-df5e01fb8795"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fbananas.png?alt=media&token=ede64fc9-5a95-482b-9459-932a39237fe1"
         },
         {
             "id":"77",
@@ -593,7 +585,7 @@
             "titleSpanish":"Sandía",
             "desciption":"Sandía",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FWatermelon.png?alt=media&token=897c2d4f-2071-4510-b689-17024896ba92"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fwatermelon.png?alt=media&token=a36d4d60-cf12-4da8-8162-40a14caa3c03"
         },
         {
             "id":"78",
@@ -601,7 +593,7 @@
             "titleSpanish":"Fresas",
             "desciption":"Fresas",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FStrawberries.jpg?alt=media&token=06dea8e5-0d38-4bb5-b6d3-12665d4ca287"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fstrawberry.png?alt=media&token=3dc3740b-4a54-4a7b-8c02-1da45e45ae3e"
         },
         {
             "id":"79",
@@ -609,7 +601,7 @@
             "titleSpanish":"Mora",
             "desciption":"Mora",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FBlackberries.jpg?alt=media&token=278b24ff-33eb-451a-962f-8a535ae1e4bd"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fblueberries.png?alt=media&token=e9fef231-7c6e-4259-82c6-283dc7cf7e30"
         },
         {
             "id":"80",
@@ -617,7 +609,7 @@
             "titleSpanish":"Cereza",
             "desciption":"Cereza",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FCherries.png?alt=media&token=0f879263-f39b-4933-9ee1-2bb88bd3fcb8"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fcherries.png?alt=media&token=69fceb84-944d-48cb-ae6e-72f995829ea9"
         },
         {
             "id":"81",
@@ -625,7 +617,7 @@
             "titleSpanish":"Papa",
             "desciption":"Papa",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fpotato.jpeg?alt=media&token=dba6d0e7-2ed6-4b70-93c5-dff895ad05a4"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fpotato.png?alt=media&token=dc07d227-c9a6-45bf-98d4-d500d7bdb65e"
         },
         {
             "id":"82",
@@ -633,7 +625,7 @@
             "titleSpanish":"Lechuga",
             "desciption":"Lechuga",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FLettuce.png?alt=media&token=6b7643f9-e305-4b6b-b3c9-3531a39feb09"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Flettuce.png?alt=media&token=ac8ee6db-33ff-4b7a-b020-8df2a2b28167"
         },
         {
             "id":"83",
@@ -641,7 +633,7 @@
             "titleSpanish":"Zanahoria",
             "desciption":"Zanahoria",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FCarrot.jpg?alt=media&token=1d1246eb-365f-45d9-954f-b660e756898e"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fcarrot.png?alt=media&token=20e2bede-ecf7-44b0-a79c-c9c0c3b24ce8"
         },
         {
             "id":"84",
@@ -649,7 +641,7 @@
             "titleSpanish":"Brócoli",
             "desciption":"Brócoli",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FBroccoli.jpg?alt=media&token=73e8272d-ae50-4545-a794-baa7983f1311"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fbroccoli.png?alt=media&token=e105d33b-ea91-457d-b960-c94636f599c2"
         },
         {
             "id":"85",
@@ -657,7 +649,7 @@
             "titleSpanish":"Coliflor",
             "desciption":"Coliflor",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FCauliflower.avif?alt=media&token=3389bd03-3ec9-4cb0-83a0-b7613c5c0139"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fcauliflower.png?alt=media&token=12682713-55f4-4699-aacc-6e200671cad4"
         },        
         {
             "id":"86",
@@ -665,7 +657,7 @@
             "titleSpanish":"Tomate",
             "desciption":"Tomate",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FTomato.jpg?alt=media&token=fd43675a-df00-4aad-935a-bc28731a432d"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Ftomato.png?alt=media&token=e700c8f5-c44d-4b32-aa09-61359b82ad96"
         },
         {
             "id":"87",
@@ -673,7 +665,7 @@
             "titleSpanish":"Cebolla",
             "desciption":"Cebolla",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FOnion.jpg?alt=media&token=8b134210-c187-4b6f-b5db-bb9c7c1478d4"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fonion.png?alt=media&token=6af86ae1-bc34-42f2-90ed-711f4b342489"
         },
         {
             "id":"88",
@@ -681,7 +673,7 @@
             "titleSpanish":"Ajo",
             "desciption":"Ajo",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FGarlic.jpg?alt=media&token=9d438625-1ef4-4eaa-8136-9de9853dbdcf"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fgarlic.png?alt=media&token=5fdf196e-f983-476d-8657-f176b0a2592a"
         },
         {
             "id":"89",
@@ -689,7 +681,7 @@
             "titleSpanish":"Cerdo",
             "desciption":"Cerdo",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Meats%2FPork.jpg?alt=media&token=77d56a6d-3424-4c04-8179-a822505a7dee"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fpork.png?alt=media&token=b9723066-ee25-484a-bcf5-397484af605d"
         },
         {
             "id":"90",
@@ -697,7 +689,7 @@
             "titleSpanish":"Res",
             "desciption":"Res",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Meats%2FBeef.jpg?alt=media&token=01761a2c-b4a8-4062-bb1e-7340d13e365a"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fbeef.png?alt=media&token=89bda782-e17e-4c95-9af3-33575ac20219"
         },
         {
             "id":"91",
@@ -705,7 +697,7 @@
             "titleSpanish":"Pollo",
             "desciption":"Pollo",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Meats%2FChiken.jpg?alt=media&token=229fd83c-8529-402e-a3fa-1f56ccd6be2b"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Froast-chicken.png?alt=media&token=71099a41-26f5-4f2f-ba6d-dc01589ea006"
         },
         {
             "id":"92",
@@ -713,7 +705,7 @@
             "titleSpanish":"Cordero",
             "desciption":"Cordero",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Meats%2FLamb.jpg?alt=media&token=1a7ff8b3-2404-4049-b881-284e906bf8b7"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Flamb.png?alt=media&token=b7fe70e8-6aeb-4b30-b480-365b8885bdcf"
         },
         {
             "id":"93",
@@ -721,7 +713,7 @@
             "titleSpanish":"Pescado",
             "desciption":"Pescado",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Meats%2FFish.jpg?alt=media&token=ae29378b-d0d4-4421-a3f6-1684963eae7f"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Ffish.png?alt=media&token=5ee59f5e-734c-41c2-b4e2-7634fdb83bb1"
         },
         {
             "id":"94",
@@ -729,7 +721,7 @@
             "titleSpanish":"Tocino",
             "desciption":"Tocino",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Meats%2FBacon.jpg?alt=media&token=3405a79d-0fc2-42ff-ae21-c9b545bc9fd3"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fbacon.png?alt=media&token=a5b1047b-a518-4ee0-b8d8-5ac5812a4dd7"
         },
         {
             "id":"95",
@@ -737,7 +729,7 @@
             "titleSpanish":"Hamburguesa",
             "desciption":"Hamburguesa",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fast%20Food%2FHamburger.jpg?alt=media&token=98d18f5f-f2cd-451d-81db-d0b0cb8703b5"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fhamburger.png?alt=media&token=b0219e5d-ce29-4d38-a0fc-f6ec4918a262"
         },
         {
             "id":"96",
@@ -745,7 +737,7 @@
             "titleSpanish":"Perro caliente",
             "desciption":"Perro caliente",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fast%20Food%2Fhotdog.jpg?alt=media&token=6594190e-1134-48a9-a351-d3a244c228d3"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fhot-dog.png?alt=media&token=78d6aaa7-295c-414f-b082-e2c9af7d24d8"
         },
         {
             "id":"97",
@@ -753,7 +745,7 @@
             "titleSpanish":"Pollo frito",
             "desciption":"Perro frito",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fast%20Food%2FFried%20chicken.jpg?alt=media&token=1c5e02a0-3799-4a72-806e-26b1d568945b"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Ffried-chicken.png?alt=media&token=b96727e3-408d-4803-910c-b8d5715aa73b"
         },
         {
             "id":"98",
@@ -761,7 +753,7 @@
             "titleSpanish":"Papas fritas",
             "desciption":"Papas fritas",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fast%20Food%2Ffrench-fries.jpg?alt=media&token=a9e6ddd3-e90c-497f-9b13-57a38a9000d4"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Ffrench-fries.png?alt=media&token=af48d2de-1517-456a-b6a4-31ad2e23462b"
         },
         {
             "id":"99",
@@ -769,7 +761,7 @@
             "titleSpanish":"Helado",
             "desciption":"Helado",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fast%20Food%2FIce%20cream.jpg?alt=media&token=62cfaef2-ad9a-459e-83b9-5f7d9bbc0749"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fice-cream.png?alt=media&token=828e622d-028c-4507-aa2d-f2e04560fcf3"
         },
         {
             "id":"100",
@@ -777,7 +769,7 @@
             "titleSpanish":"Palomitas",
             "desciption":"Palomitas",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fast%20Food%2FPopcorn.jpg?alt=media&token=fc6e2fdb-8daa-4b3c-a4a1-90f9d092f545"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fpopcorn.png?alt=media&token=db5966ed-b7b2-48c6-bfe0-edede4d943b3"
         },
         {
             "id":"101",
@@ -785,7 +777,7 @@
             "titleSpanish":"Pizza",
             "desciption":"Pizza",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fast%20Food%2Fpizza.jpg?alt=media&token=575d4531-a308-401b-8b3f-5cd1acab0fd7"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fpizza.png?alt=media&token=4bf7ee51-0c3c-49a4-a484-10450697d24c"
         },
         {
             "id":"102",
@@ -793,7 +785,7 @@
             "titleSpanish":"Pastel",
             "desciption":"Pastel",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fast%20Food%2FCake.jpg?alt=media&token=2bc3a662-912d-4c61-9075-8b1ff4d8725a"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fcake.png?alt=media&token=97994a61-ce4f-4181-97ba-08fea5fdb84a"
         },
         {
             "id":"103",
@@ -801,7 +793,7 @@
             "titleSpanish":"Galletas",
             "desciption":"Galletas",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fast%20Food%2FCookies.jpg?alt=media&token=a290b790-11e4-4190-9b47-bd49b1a28328"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fcookie.png?alt=media&token=3b771d82-562b-4c04-9e54-a76f66572d89"
         },
         {
             "id":"104",
@@ -809,7 +801,7 @@
             "titleSpanish":"Desayuno",
             "desciption":"Desayuno",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Eating%20habits%2FBreakfast.jpg?alt=media&token=f74576c2-897a-4553-bbb1-621142b3226f"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fbreakfast.png?alt=media&token=59ef491d-91fc-453c-9995-cad14d34ecf8"
         },
         {
             "id":"105",
@@ -817,7 +809,7 @@
             "titleSpanish":"Almuerzo",
             "desciption":"Almuerzo",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Eating%20habits%2FLunch.jpg?alt=media&token=c4ae7746-29ee-48f3-8d29-36ca693ce3fd"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Flunch.png?alt=media&token=6cc39740-0e84-4b48-8771-b9d6089350ee"
         },
         {
             "id":"106",
@@ -825,7 +817,7 @@
             "titleSpanish":"Cena",
             "desciption":"Cena",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Eating%20habits%2FDinner.jpg?alt=media&token=30f21d7b-3c33-4a51-9af8-a32b62a86365"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fdinner.png?alt=media&token=13ecc6f3-b0db-43b8-9db7-6edd5106a687"
         },
         {
             "id":"107",
@@ -833,7 +825,7 @@
             "titleSpanish":"Merienda",
             "desciption":"Merienda",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Eating%20habits%2FSnack.jpg?alt=media&token=133a355f-856b-409b-ba9f-16d9ac198017"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fsnack.png?alt=media&token=3caf3de3-e79f-4433-8203-f60b92c975c1"
         },
         {
             "id":"108",
