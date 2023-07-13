@@ -3,25 +3,25 @@
         "id":"1",
         "Description":"Hello, Hi there, Hey, Bye",
         "id_unit":"1",
-        "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hello%2C%20hi%20there%2FcardTheme.jpg?alt=media&token=b5ddf3bc-a440-470e-be3b-4d20ba3dfeb4"
+        "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Portadas%2Fhello.png?alt=media&token=6d94829c-2983-4f6e-af23-142f94535aaf"
     },
     {
         "id":"2",
         "Description":"Building Community",
         "id_unit":"1",
-        "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FBuildingC.jpg?alt=media&token=5928c137-a6e0-4254-a7e1-07585d8bd8de"
+        "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Portadas%2FCommunity.png?alt=media&token=437c6c7f-09e7-424f-b739-043f58abc422"
     },
     {
         "id":"3",
         "Description":"Let's Get Personal",
         "id_unit":"1",
-        "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2FCardTheme.jpg?alt=media&token=691bfab9-bdef-47bb-8219-681b75073e14"
+        "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Portadas%2Fcouple.png?alt=media&token=410e0ce1-03c0-4839-bff6-1c61555d69af"
     },
     {
         "id":"4",
         "Description":"Meet My Family",
         "id_unit":"1",
-        "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Family%2FFamily.jpeg?alt=media&token=916be493-68ad-4d43-9a83-3916209c75c6"
+        "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Portadas%2FFamily.png?alt=media&token=9a9617c8-181a-4489-930e-8d33f8c95e0f"
     },
     {
         "id":"5",
@@ -33,18 +33,18 @@
         "id":"6",
         "Description":"Eating Habits",
         "id_unit":"2",
-        "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2FVegetables.jpeg?alt=media&token=1a31cab4-285b-4cd4-ad9c-961621b1c1af"
+        "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Portadas%2FEating.png?alt=media&token=cbc653b0-2911-4cae-9190-403230884155"
     },
     {
         "id":"7",
         "Description":"Hanging Out",
         "id_unit":"2",
-        "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2FCardTheme.jpg?alt=media&token=c15438df-7bd9-4513-aa22-c2999e435ebe"
+        "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Portadas%2FHanging%20out.png?alt=media&token=8706a5ea-3e9c-4f8f-8231-f3a37bf9f85b"
     },
     {
         "id":"8",
         "Description":"Thinks I Like to Do",
         "id_unit":"2",
-        "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Thinks%20I%20like%20to%20do%2FcardTheme.jpg?alt=media&token=688237d9-4591-4b92-b09d-e097c3f48cc6"
+        "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Portadas%2FThinksIL.png?alt=media&token=2cf03ed7-8e5b-4058-8551-2dcf8c449080"
     }
 ]

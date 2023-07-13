@@ -9,7 +9,7 @@ export default function Cards (props) {
                         <div className="flex flex-col whitespace-nowrap overflow-hidden text-ellipsis">
                             <div className="relative rounded-[0px]">
                                 <div className="w-[250px] h-[300px] bg-white flex items-center justify-center">
-                                    <img alt=" "className="w-[100%] h-auto object-center object-cover" src={props.url}/>
+                                    <img alt=" "className="w-[9çççççççƒ0%] h-auto object-center object-cover" src={props.url}/>
                                 </div>
 
                             </div>
