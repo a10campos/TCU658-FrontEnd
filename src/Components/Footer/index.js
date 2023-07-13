@@ -28,14 +28,13 @@ export default function Footer () {
                             </div>
                         </div>
                     </div> 
-                    
-                    <p className="text-center lg:mt-8">Julio-2023 </p>
-                    
-                 </div>
-                 <div className="">
-                    <p className="text-center lg:mt-2">Imagenes tomadas de <a href ="https://creazilla.com/">https://creazilla.com/</a> sin derechos de autor. </p>
+                    <div className="">
+                    <p className="text-center lg:mt-8">Imagenes de libre uso tomadas de <a href ="https://creazilla.com/">https://creazilla.com/</a>.</p>
                     </div>
 
+                    <p className="text-center lg:mt-2">Julio-2023 </p>
+                    
+                 </div>
         </footer>
         </>
     );
