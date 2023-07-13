@@ -56,7 +56,7 @@ export default function TestCards(props) {
 
     //var filter2 = filter1.sort(function() {return Math.random() - 0.5});
     if (isfinished) return (
-      <Spinner url={`/${level_id}/${unit_id}/${theme_id}`} score={score} questions={props.filter.length-score}></Spinner>
+      <Spinner url={`/levels/${level_id}/${unit_id}/${theme_id}`} score={score} questions={props.filter.length-score}></Spinner>
     );
 
     return (
