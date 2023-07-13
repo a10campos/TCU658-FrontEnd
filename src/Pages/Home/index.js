@@ -23,10 +23,11 @@ export default function Levels() {
                     <div className="h-[250px] w-[300px] rounded-md shadow-[0_2px_4px_0px_rgba(0,0,0,0.5)] m-2 flex justify-center items-center p-2">
                          <p className="text-center text-lg">Once you have studied everything, you can do some exercises</p>
                     </div>
-                    <a href={`/levels`}>
-                        <button className=" m-4 rounded-md text-white bg-blue w-60 h-14">Go it</button>
-                    </a>
-                        
+                    </div>
+                    <div className="flex items-center justify-center">
+                        <a href={`/levels`}>
+                            <button className=" m-4 rounded-md text-white bg-blue w-60 h-14">Go it</button>
+                        </a>
                     </div>
                 <Footer></Footer>
             </div>
