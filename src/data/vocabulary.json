@@ -5,7 +5,7 @@
     "titleSpanish":"Hola",
     "desciption":"Saludo",
     "id_theme":"1",
-    "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hello%2C%20hi%20there%2FHello.jpg?alt=media&token=9a9ce905-960a-407d-8b1a-dc200c9ff3c7"
+    "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hello%2C%20hi%20there%2FHi.png?alt=media&token=54ca3198-afbe-4db5-9131-def46b08d27e"
     },
     {
         "id":"2",
@@ -13,7 +13,7 @@
         "titleSpanish":"Hola",
         "desciption":"Saludo informal",
         "id_theme":"1",
-        "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hello%2C%20hi%20there%2FHi.jpeg?alt=media&token=72aa3f2d-60f8-4fb2-b2d5-bb5642b4b42f"
+        "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hello%2C%20hi%20there%2FHello.png?alt=media&token=9da4f9d5-2070-431e-ab0c-e0638882f711"
     },
     {
         "id":"3",
@@ -77,7 +77,7 @@
             "titleSpanish":"Mi nombre es Juan.",
             "desciption":"Forma de decir el nombre ",
             "id_theme":"3",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2FMy%20name%20is%20Juan.png?alt=media&token=6ffe3d94-965f-4d8f-bbbe-21936ced6b4a"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2FJuan.png?alt=media&token=44ddc7fb-637f-4b85-9784-cf46cb277838"
         },
         {
             "id":"11",
@@ -85,7 +85,7 @@
             "titleSpanish":"Yo soy Juan.",
             "desciption":"Forma de decir el nombre ",
             "id_theme":"3",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2FHi%2C%20I%20am%20Juan.png?alt=media&token=a46a4181-9bb8-403b-b250-422968f2ddc5"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2FIamJuan.png?alt=media&token=47377baf-64ad-4d5d-8c50-35b6666c4b44"
         }, 
         {
             "id":"12",
@@ -93,7 +93,7 @@
             "titleSpanish":" ¿Cuál es tu nombre?",
             "desciption":"Forma de preguntar el nombre de una persona.",
             "id_theme":"3",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2FWhat%20is%20your%20name_.jpg?alt=media&token=7c260fe4-d20b-49d5-802d-e55f41f3c379"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2FWhat%20is%20your%20name.png?alt=media&token=493829c3-eb49-4679-a2f7-764d466828db"
         }, 
         {
             "id":"13",
@@ -329,7 +329,7 @@
             "titleSpanish":"Hospital",
             "desciption":"Hospital-hospital",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FHospital.png?alt=media&token=59f95856-1bc5-4194-9265-8b5df95836e2"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2Fhospital.png?alt=media&token=2359d833-c67a-404b-83bf-4548c73a37ff"
         }, 
         {
             "id":"47",
@@ -337,7 +337,7 @@
             "titleSpanish":"Banco",
             "desciption":"Bank-Banco ",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FBank.png?alt=media&token=60a0bd6c-2ba3-460a-bbc6-94e423060e17"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2Fbank.png?alt=media&token=fd8290b6-f337-4c6c-9951-47773e174e38"
         }, 
         {
             "id":"48",
@@ -345,7 +345,7 @@
             "titleSpanish":"Escuela",
             "desciption":"School-Escuela",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FSchool.png?alt=media&token=84108e53-a0eb-4697-b097-d58ce2233a80"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2Fschool.png?alt=media&token=b583ffe6-4f7e-4b7a-be5f-b170cf3ce89f"
         }, 
         {
             "id":"49",
@@ -353,7 +353,7 @@
             "titleSpanish":"Carcel",
             "desciption":"Jail- Carcel. ",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FJail.png?alt=media&token=777cd53b-9728-48a2-87eb-fb4be48fa036"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FJail.png?alt=media&token=bf5c5550-d1b8-4a72-a1e2-0d29e7ec7b13"
         }, 
         {
             "id":"50",
@@ -361,7 +361,7 @@
             "titleSpanish":"Iglesia",
             "desciption":"Church- Iglesia",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FChurch.png?alt=media&token=bc4b96be-f810-44b7-9652-b1dc23539413"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2Fchurch.png?alt=media&token=5e4dfedf-0858-4e26-af7e-08c5d8c1b1be"
         }, 
         {
             "id":"51",
@@ -369,7 +369,7 @@
             "titleSpanish":" Biblioteca",
             "desciption":"Library- Biblioteca",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FLibrary.jpg?alt=media&token=c22a471e-6275-407e-8ba9-94344be301c1"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2Flibrary.png?alt=media&token=fd0268db-7640-4c4e-a9bb-f19e38efa9b1"
         }, 
         {
             "id":"52",
@@ -377,7 +377,7 @@
             "titleSpanish":"Estación de policía",
             "desciption":"Police station - Estación de policía",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FPolice%20station.jpg?alt=media&token=d160a4e8-d0fa-4ce6-80ca-0c84b535d434"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2Fpolice-station.png?alt=media&token=7d7d4740-bcd0-41e0-8f9f-f87210925a80"
         },
         {
             "id":"53",
@@ -385,7 +385,7 @@
             "titleSpanish":" Gasolinera",
             "desciption":"Gas station- Gasolinera",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FGas%20station.jpg?alt=media&token=65b0fab6-b76d-4974-b813-d20e4a9bc897"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2Fgas-station.png?alt=media&token=062957e5-5004-4bcd-839e-a0eff456441f"
         }, 
         {
             "id":"54",
@@ -393,7 +393,7 @@
             "titleSpanish":" Restaurante",
             "desciption":"Restaurant- Restaurante",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FRestaurant.png?alt=media&token=d17a08d6-c7db-4e2e-9c33-0575d4cedbbf"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2Frestaurant.png?alt=media&token=d5cf5bff-045f-498c-9e0a-ceee5e92d6b3"
         }, 
         {
             "id":"55",
@@ -401,7 +401,7 @@
             "titleSpanish":" Centro comercial",
             "desciption":"Mall- Centro comercial",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FMall.jpg?alt=media&token=e14a45ac-a260-42a1-b142-8501e215373b"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2Fmall.png?alt=media&token=a2da2119-11a0-45d3-a257-6f682bed1189"
         }, 
         {
             "id":"56",
@@ -409,7 +409,7 @@
             "titleSpanish":" Panadería",
             "desciption":"Bakery- Panadería",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FBakery.webp?alt=media&token=eafb815e-e1a4-41b9-917a-68c7d32c40ad"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2Fbakery.png?alt=media&token=637c57bb-27c1-47b5-96bd-adb986710e21"
         }, 
         {
             "id":"57",
@@ -417,7 +417,7 @@
             "titleSpanish":" Aeropuerto",
             "desciption":"Airport-Aeropuerto",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FAirport.jpeg?alt=media&token=70db5510-093c-433c-a195-0e53e82a885d"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2Fairport.png?alt=media&token=8db39fca-414a-4cef-b9f8-0ab67e2794dd"
         },
         {
             "id":"58",
@@ -425,7 +425,7 @@
             "titleSpanish":" Farmacia",
             "desciption":"Pharmacy-Farmacia",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FPharmacy.jpg?alt=media&token=858d92de-d68c-4257-b322-3c49e7fb25e3"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2Fpharmacy.png?alt=media&token=f3d46a64-a3f3-43db-a425-debf71f5a00b"
         }, 
         {
             "id":"59",
@@ -433,7 +433,7 @@
             "titleSpanish":" Hotel",
             "desciption":"Hotel-hotel",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FHotel.jpg?alt=media&token=de47a2fc-7fa3-4b1f-a7d5-6363cda9e409"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2Fhotel.png?alt=media&token=2428d2a3-af95-4189-9a78-c6e4d4221e30"
         }, 
         {
             "id":"60",
@@ -441,7 +441,7 @@
             "titleSpanish":" Estación de bomberos",
             "desciption":"Fire station-Estación de bomberos. ",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FFire%20station.jpg?alt=media&token=79fcbdf6-6cd2-4089-97f3-0e4f479db09d"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2Ffire-station.png?alt=media&token=51c39011-d023-41a1-a93f-967fca7f5714"
         }, 
         {
             "id":"61",
@@ -449,7 +449,7 @@
             "titleSpanish":" Floristería",
             "desciption":"Flower shop-floristería  ",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FFlower%20shop.jpg?alt=media&token=633cf4ba-b6d3-4db6-b8ef-76fb0845232e"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2Fflower-shop.png?alt=media&token=e7f453b1-c419-4909-ab3c-cc7084529e02"
         }, 
         {
             "id":"62",
@@ -457,7 +457,7 @@
             "titleSpanish":" Cafetería",
             "desciption":"Coffee shop-Cafetería ",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FCoffee%20shop.png?alt=media&token=e55db0e5-edf7-41aa-a63f-2517a2ad6b25"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2Fcoffeehouse.png?alt=media&token=ab091cd3-345f-4dc6-9d83-56c69a7679bd"
         }, 
         {
             "id":"63",
@@ -465,7 +465,7 @@
             "titleSpanish":" Supermercado",
             "desciption":"Supermarket-Supermercado ",
             "id_theme":"2",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FSupermarket.jpg?alt=media&token=e548b9d4-f65a-4985-a10c-f79ae1de435e"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2Fsupermarket.png?alt=media&token=2bab30b0-6e5d-4b99-b2a3-9c8423885c37"
         },
         {
             "id":"64",
@@ -473,7 +473,7 @@
             "titleSpanish":" Mamá",
             "desciption":"Mother - Mamá",
             "id_theme":"4",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Family%2FMother.jpg?alt=media&token=2a9bc221-3f92-407f-b73c-595d14ac0473"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Family%2Fmother.png?alt=media&token=a4f708af-2e05-4cbb-8e5a-417d8b786182"
         },
         {
             "id":"64",
@@ -481,7 +481,7 @@
             "titleSpanish":"Papá",
             "desciption":"Father - Papá",
             "id_theme":"4",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Family%2FFather-dad.jpg?alt=media&token=d8b74ecd-5c13-4def-8425-48ad5281c799"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Family%2Ffather.png?alt=media&token=6566d165-0f85-4fda-973f-bcfc8f4a09e9"
         },
         {
             "id":"65",
@@ -489,7 +489,7 @@
             "titleSpanish":" Hermano",
             "desciption":"Brother - Hermano",
             "id_theme":"4",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Family%2FBrother.jpg?alt=media&token=27ccf169-20ab-44b9-bd47-44c2c1bd5981"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Family%2Fbrother.png?alt=media&token=b1a3a05e-4911-4170-9507-5db665785a65"
         },
         {
             "id":"66",
@@ -497,7 +497,7 @@
             "titleSpanish":" Hermana",
             "desciption":"Sister - Hermana",
             "id_theme":"4",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Family%2FSister.jpg?alt=media&token=f4ac6ed6-03cc-4d93-bc78-60569da575dd"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Family%2FSister.png?alt=media&token=d855c340-1718-4cff-91d7-f8dbd080f5ff"
         },
         {
             "id":"67",
@@ -505,7 +505,7 @@
             "titleSpanish":" Abuela",
             "desciption":"Grandmother - Abuela",
             "id_theme":"4",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Family%2FGrandma-%20grandmother_.jpg?alt=media&token=2ded18d0-f77b-490c-98e7-56fffc2a0d0c"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Family%2Fgrandmother.png?alt=media&token=a093d532-7757-427c-b3d7-9a62d3bb01fd"
         },
         {
             "id":"68",
@@ -513,7 +513,7 @@
             "titleSpanish":" Abuelo",
             "desciption":"Grandfather - Abuelo",
             "id_theme":"4",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Family%2FGrandfather.jpg?alt=media&token=831d3001-7967-47ff-bbc7-20933057d90f"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Family%2Fgranfather.png?alt=media&token=87554c6f-4816-41f0-a56a-98ac2bb76d91"
         },
         {
             "id":"69",
@@ -521,7 +521,7 @@
             "titleSpanish":"Tío",
             "desciption":"Uncle - Tío",
             "id_theme":"4",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Family%2FUncle.jpg?alt=media&token=9135de42-f2de-45a1-a1f5-9b09772d9056"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Family%2Funcle.png?alt=media&token=4460be2e-56b5-4753-b955-98b61a49e850"
         },
         {
             "id":"70",
@@ -529,7 +529,7 @@
             "titleSpanish":"Tía",
             "desciption":"Aunt - Tía",
             "id_theme":"4",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Family%2FAunt_.jpg?alt=media&token=a46027a5-e0e2-40b6-a45c-443b0e9eeea6"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Family%2Faunt.png?alt=media&token=443c8ce7-af8b-41b4-9a5f-1d73b189827b"
         },
         {
             "id":"71",
@@ -833,7 +833,7 @@
             "titleSpanish":"Yo me despierto.",
             "desciption":"Conjugación del verbo despertarse en primera persona singular",
             "id_theme":"5",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2FI%20wake%20up.webp?alt=media&token=8b77e500-a6b4-4262-9dca-7c5a8b2d42cd"  
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2FWakeup.png?alt=media&token=46048507-477a-4a86-9835-0705546e487f"  
         },
         {
             "id":"109",
@@ -841,7 +841,7 @@
             "titleSpanish":"Yo comienzo a trabajar a las 7:00 a.m.",
             "desciption":"Frase para indicar a cual hora inicia a trabajar",
             "id_theme":"5",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2FI%20start%20work%20at%207_00%20a.m.jpg?alt=media&token=be023b4b-333b-4829-a624-3f077fb3433c" 
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2Fstart-work.png?alt=media&token=943e151a-0fc7-402f-b141-e1b543487d5c" 
         },
         {
             "id":"110",
@@ -849,7 +849,7 @@
             "titleSpanish":"Yo desayuno.",
             "desciption":"Conjugación del verbo desayunar en primera persona singular",
             "id_theme":"5",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2FI%20have%20breakfast.jpg?alt=media&token=b872e264-3fb7-4976-beed-397f2de7d3d2" 
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2Fhave-breakfast.png?alt=media&token=8d03f715-22f7-4dc9-abd1-4bc455b804ad" 
         },
         {
             "id":"111",
@@ -857,7 +857,7 @@
             "titleSpanish":"Yo me levanto.",
             "desciption":"Conjugación del verbo levantarse en primera persona singular",
             "id_theme":"5",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2Fget-up.jpg?alt=media&token=3d7a7984-8bbd-43ee-9f2d-7ee35af85fef"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2Fget-up.png?alt=media&token=a941c025-f51c-40b7-9206-1a2331fbb368"
         },
         {
             "id":"112",
@@ -865,7 +865,7 @@
             "titleSpanish":"Yo alimento al perro.",
             "desciption":"Conjugación del verbo alimentar en primera persona singular",
             "id_theme":"5",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2FI%20feed%20the%20dog.jpg?alt=media&token=94a857f9-be5b-4f68-8984-5d08e0c216af"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2Ffeed%20the%20dog.png?alt=media&token=19897cb8-85f3-4f70-bfe3-82469a6000ae"
         },
         {
             "id":"113",
@@ -873,7 +873,7 @@
             "titleSpanish":"Yo veo televisión.",
             "desciption":"Conjugación del verbo ver en primera persona singular",
             "id_theme":"5",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2FI%20watch%20tv.jpg?alt=media&token=9aa45ed7-1a7e-46b2-b0a3-670d96080133"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2Fwatch%20tv.png?alt=media&token=acdc3a1b-8f84-4f97-ad09-44cb4e8ba797"
         },
         {
             "id":"114",
@@ -881,7 +881,7 @@
             "titleSpanish":"Yo leo un libro.",
             "desciption":"Conjugación del verbo leer en primera persona singular",
             "id_theme":"5",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2FI%20read%20a%20book.jpg?alt=media&token=e6c028e3-f27a-4e2f-97a2-2efaa380d78f"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2Fread%20a%20book.png?alt=media&token=2dc02681-f965-40e0-8a9d-7fe1a8f8a283"
         },
         {
             "id":"115",
@@ -889,7 +889,7 @@
             "titleSpanish":"Yo voy a la cama a las 8:00 p.m.",
             "desciption":"Expresión para indicar que vas a ir a la cama",
             "id_theme":"5",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2FI%20go%20to%20bed.jpg?alt=media&token=efa831c5-29e9-4dab-8298-7e79bbfc6800"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2Fgo-to-bed.png?alt=media&token=a099e1ae-8385-48ac-9352-d2d2f1fb7835"
         },
         {
             "id":"116",
@@ -897,7 +897,7 @@
             "titleSpanish":"Yo voy a casa.",
             "desciption":"Conjugación del verbo ir en primera persona singular",
             "id_theme":"5",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2FI%20go%20home.jpg?alt=media&token=39e73a23-2cc0-4fa9-bb28-05c92ab79689"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2Fhome.png?alt=media&token=dfce5119-2fc9-4766-830b-3e2766ae34ca"
         },
         {
             "id":"117",
@@ -905,7 +905,7 @@
             "titleSpanish":"Yo termino clases a las 3:00 p.m.",
             "desciption":"Conjugación del verbo terminar en primera persona singular",
             "id_theme":"5",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2FI%20finish%20classes.jpg?alt=media&token=a32b9348-d5de-405d-974d-db7343a6a326"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2Ffinish-clases.png?alt=media&token=f7693320-f0f4-4ba4-8d83-c14543d9d721"
         },
         {
             "id":"118",
@@ -913,7 +913,7 @@
             "titleSpanish":"Yo hago mi tarea.",
             "desciption":"Conjugación del verbo hacer en primera persona singular",
             "id_theme":"5",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2FI%20do%20my%20homework.jpg?alt=media&token=70742e9a-9b5c-4cfe-bb5a-772417ffefe5"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2Fhomework1.jpg?alt=media&token=ae412e68-f097-4dcf-a269-d8b2511dac97"
         },
         {
             "id":"119",
@@ -921,7 +921,7 @@
             "titleSpanish":"Yo salgo con mis padres.",
             "desciption":"Conjugación del verbo salir hacer en primera persona singular",
             "id_theme":"5",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2FI%20go%20out%20with%20my%20parents.jpg?alt=media&token=ba378648-d11e-49a3-a597-c008a363c9eb"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2Ffamily-going-out.png?alt=media&token=7345d927-72e7-4b3d-8d56-91d1839c6a3c"
         },
         {
             "id":"120",
@@ -929,7 +929,7 @@
             "titleSpanish":"Ir al centro comercial",
             "desciption":"Expresión para indicar que vas al centro comercial",
             "id_theme":"7",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2FTo%20go%20to%20the%20mall%20.jpg?alt=media&token=37f8376b-a04b-4732-a2c7-90b0c624ffe5"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2Fshopping.png?alt=media&token=14aee1bd-3d26-43fb-80d8-a158a55c9d32"
         },
         {
             "id":"121",
@@ -937,7 +937,7 @@
             "titleSpanish":"Ir a la piscina",
             "desciption":"Expresión para indicar que vas a la piscina",
             "id_theme":"7",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2FTo%20go%20to%20the%20pool.jpg?alt=media&token=8fe39cf2-3c87-4f93-86da-77afe681cd2c"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2Fpool.png?alt=media&token=ca7e17e8-87e0-48b2-9879-27a1a0565584"
         },
         {
             "id":"122",
@@ -945,7 +945,7 @@
             "titleSpanish":"Tener una pijamada",
             "desciption":"Reunión de amigos para quedarse a domir juntos",
             "id_theme":"7",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2FTo%20have%20a%20sleepover.jpg?alt=media&token=fdcad3c9-f79b-4025-92a6-fcb37a2648dd"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2Fsleeppover.png?alt=media&token=f1acc423-311d-437d-bea7-c107ebe6f9af"
         },
         {
             "id":"123",
@@ -953,7 +953,7 @@
             "titleSpanish":"Ver una película",
             "desciption":"Expresión para indicar que vas a ver una película",
             "id_theme":"7",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2FTo%20watch%20a%20DVD%20(movie).jpg?alt=media&token=7c63ea51-fb7a-45d5-a1cf-419973aeea0c"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2FWatchMovie.png?alt=media&token=76a1bfc4-b2cb-4c13-9e91-6f2772cee90a"
         },
         {
             "id":"124",
@@ -961,7 +961,7 @@
             "titleSpanish":"Ir al cine",
             "desciption":"Expresión para indicar que vas al cine",
             "id_theme":"7",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2FGo%20to%20the%20cinema.jpg?alt=media&token=09e50f3b-31c8-4bd7-a567-b1a3d6be8c5d"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2Fgo%20to%20the%20cinema.png?alt=media&token=3e65817c-96d2-417c-b056-9c1e00850db3"
         },
         {
             "id":"125",
@@ -969,7 +969,7 @@
             "titleSpanish":"Enviar mensajes de texto",
             "desciption":"Verbo enviar en infinitivo",
             "id_theme":"7",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2FTo%20send%20text%20messages.jpg?alt=media&token=646e96b6-9cac-4017-a141-abc66f304c2e"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2Ftextmessages.png?alt=media&token=1463c1dd-f890-41ba-9b01-58ba8eeba9a7"
         },
         {
             "id":"126",
@@ -977,7 +977,7 @@
             "titleSpanish":"Hablar por teléfono.",
             "desciption":"Verbo hablar en infinitivo",
             "id_theme":"7",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2FTo%20talk%20by%20cell%20phone.jpg?alt=media&token=f6ed75e1-14ad-4b56-824b-0a82db8f9131"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2Ftalk-cel.png?alt=media&token=40600b63-a70e-4bf1-a75b-04bca240241f"
         },
         {
             "id":"127",
@@ -985,7 +985,7 @@
             "titleSpanish":"Jugar juegos de mesa.",
             "desciption":"Verbo jugar en infinitivo",
             "id_theme":"7",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2FTo%20play%20board%20games.jpg?alt=media&token=a9ed868d-00c3-419f-9abf-3c0a465141f2"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2Fboardgames.png?alt=media&token=66fd4085-53a4-42c0-a430-95fa000ce342"
         },
         {
             "id":"128",
@@ -993,7 +993,7 @@
             "titleSpanish":"Jugar cartas.",
             "desciption":"Verbo jugar en infinitivo",
             "id_theme":"7",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2FTo%20play%20cards.jpg?alt=media&token=555c4aa8-7d5b-4bdd-a015-8530be985141"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2Fplaying-cards.png?alt=media&token=223324f3-614c-4993-9383-0feb30572d80"
         },
         {
             "id":"129",
@@ -1001,7 +1001,7 @@
             "titleSpanish":"Me gusta leer.",
             "desciption":"Gustos/ Preferencias",
             "id_theme":"8",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Thinks%20I%20like%20to%20do%2FI%20like%20to%20read.jpg?alt=media&token=196ed285-daab-4083-8810-42d7b23f72b7"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Thinks%20I%20like%20to%20do%2Fread.png?alt=media&token=3c0b8899-c61f-4880-a6ad-988a8dc4f729"
         },
         {
             "id":"130",
@@ -1025,15 +1025,7 @@
             "titleSpanish":"La pasta es deliciosa.",
             "desciption":"Gustos/Preferencias",
             "id_theme":"8",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Thinks%20I%20like%20to%20do%2FI%20love%20pasta.jpg?alt=media&token=e4103cf1-d230-4e44-94b8-694f85bfb3e6"
-        },
-        {
-            "id":"133",
-            "title":"Playing cards is boring.",
-            "titleSpanish":"Jugar cartas es aburrido.",
-            "desciption":"Disgustos/Preferencias",
-            "id_theme":"8",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Thinks%20I%20like%20to%20do%2FPlaying%20cards%20is%20boring.jpg?alt=media&token=c5923db1-9ee7-41e7-a661-9d2a15e5bc01"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Thinks%20I%20like%20to%20do%2Fpasta.png?alt=media&token=f2ddc1e7-9560-462b-b40f-14eaf7c4205b"
         },
         {
             "id":"134",
@@ -1041,7 +1033,7 @@
             "titleSpanish":"Me gusta.",
             "desciption":"Gustos/Preferencias",
             "id_theme":"8",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Thinks%20I%20like%20to%20do%2FI%20like.jpg?alt=media&token=439d89df-d178-4d2c-9a8f-ccbd544cb4d0"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Thinks%20I%20like%20to%20do%2Flike.png?alt=media&token=5d4d3995-c1c8-4a02-8330-4022c4a6d066"
         },
         {
             "id":"135",
@@ -1057,7 +1049,7 @@
             "titleSpanish":"Es divertido.",
             "desciption":"Gustos/Preferencias",
             "id_theme":"8",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Thinks%20I%20like%20to%20do%2FIt_s%20funny.jpg?alt=media&token=65573617-d8dc-4602-a658-1afb2fd6534a"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Thinks%20I%20like%20to%20do%2Ffunny.png?alt=media&token=eb1b7a14-c11f-4121-98e2-45c9f1a1f468"
         },
         {
             "id":"137",
@@ -1065,7 +1057,7 @@
             "titleSpanish":"Es aburrido.",
             "desciption":"Disgustos/Preferencias",
             "id_theme":"8",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Thinks%20I%20like%20to%20do%2FIt%20is%20boring.jpg?alt=media&token=39c1ffbb-597e-42f7-a8bd-2ec4707faf13"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Thinks%20I%20like%20to%20do%2Fboring.png?alt=media&token=32f1b3c0-c0ff-4101-8735-b4971ec44f2d"
         },
         {
             "id":"138",
@@ -1073,7 +1065,7 @@
             "titleSpanish":"Amo pasear en bicicleta.",
             "desciption":"Gustos/Preferencias",
             "id_theme":"8",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Thinks%20I%20like%20to%20do%2FI%20love%20to%20ride%20my%20bike.jpg?alt=media&token=a48dafdd-2e87-4a79-8be8-598302bd742e"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Thinks%20I%20like%20to%20do%2Fridemybike.png?alt=media&token=f9771b1c-850d-4b6a-9c72-cc5895e8feaa"
         },
         {
             "id":"139",
@@ -1097,7 +1089,7 @@
             "titleSpanish":"Levante la mano.",
             "desciption":"Orden",
             "id_theme":"3",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2FRaise%20your%20hand..jpg?alt=media&token=9cae0859-8bda-47ce-bbe4-2b3a6cbc2a42"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2Fraised-hand.png?alt=media&token=7993381b-f308-4d4a-b2fc-b0a75b7b842b"
         },
         {
             "id":"142",
@@ -1113,7 +1105,7 @@
             "titleSpanish":"¿Puede repetir, por favor?",
             "desciption":"Formular una pregunta",
             "id_theme":"3",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2F%C2%BFCould%20you%20repeat%2C%20please_.jpg?alt=media&token=c301b1d8-fa6f-4d74-b67c-1fd29f0aee4c"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2Frepeat.png?alt=media&token=804807e6-74a5-4a7f-bc67-e46e9e30eacf"
         },
         {
             "id":"144",
@@ -1121,7 +1113,7 @@
             "titleSpanish":"¿Puedo ir al baño?",
             "desciption":"Formular una pregunta",
             "id_theme":"3",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2FMay%20I%20go%20to%20the%20restroom_.jpg?alt=media&token=caa43b74-cff9-4968-bf8e-e9edb3cf2031"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2Frestroom.png?alt=media&token=39bae50e-a047-4369-8847-0c141403d1f5"
         },
         {
             "id":"145",
@@ -1129,7 +1121,7 @@
             "titleSpanish":"¿Me presta su lápiz?",
             "desciption":"Formular una pregunta",
             "id_theme":"3",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2FMay%20I%20borrow%20your%20pencil_.jpg?alt=media&token=e6bf7f3f-2523-44f0-9c4f-46be9d0d92e2"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2Fpencil.png?alt=media&token=f0f4cfd2-c7c3-4345-b32e-b7e06da7685e"
         },
         {
             "id":"147",
@@ -1137,7 +1129,7 @@
             "titleSpanish":"¿Dónde vives?",
             "desciption":"Formular una pregunta",
             "id_theme":"3",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Wh-Questions%2FWhere%20do%20you%20live_.jpg?alt=media&token=15c72f54-b073-439b-932c-f886fceb0288"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2Flocation.png?alt=media&token=f2b2ea76-def3-4ccc-b106-26c970f9bfe0"
         },
         {
             "id":"148",
@@ -1153,7 +1145,7 @@
             "titleSpanish":"¿Cuál es tu número telefónico?",
             "desciption":"Formular una pregunta",
             "id_theme":"3",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Wh-Questions%2FWhat%20is%20your%20phone%20number_.jpg?alt=media&token=b5943ff8-bfa3-4aa2-aa70-cd25433643dc"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2Fcellphone.png?alt=media&token=94e9977c-cb5e-445e-b742-ad9959cf2671"
         },
         {
             "id":"150",
@@ -1161,7 +1153,7 @@
             "titleSpanish":"¿Cuál es tu correo electrónico?",
             "desciption":"Formular una pregunta",
             "id_theme":"3",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Wh-Questions%2FWhat%20is%20your%20email_.jpg?alt=media&token=565132de-80c1-441d-8140-69575a9904f3"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2Femail.png?alt=media&token=76870870-5027-4607-b437-89ffcdf3af84"
         },
         {
             "id":"151",
@@ -1169,7 +1161,7 @@
             "titleSpanish":"¿Cuál es tu nacionalidad?",
             "desciption":"Formular una pregunta",
             "id_theme":"3",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Wh-Questions%2FWhat%20is%20your%20nationality_.jpg?alt=media&token=e6aede65-1c0e-4fb6-abee-c02b15de29ab"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2Fnationality.png?alt=media&token=6c4d93ef-05be-49e5-8495-7f8332e87631"
         },
         {
             "id":"152",
@@ -1177,7 +1169,7 @@
             "titleSpanish":"¿Cuál es tu dirección?",
             "desciption":"Formular una pregunta",
             "id_theme":"3",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Wh-Questions%2FWhat%20is%20your%20address.jpg?alt=media&token=4eb976d2-50f4-4f8a-af2c-8519ce4f6334"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2Faddrees.png?alt=media&token=f9d1d0b0-c0cb-4101-979d-66bb19562687"
         },
         {
             "id":"153",
@@ -1185,7 +1177,7 @@
             "titleSpanish":"¿Cuál es tu estado civil?",
             "desciption":"Formular una pregunta",
             "id_theme":"3",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Wh-Questions%2FWhat%20is%20your%20marital%20status_.jpg?alt=media&token=9fea2bca-383f-4408-a5ef-8b580b437bb9"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2Fmarried.png?alt=media&token=65ce7736-d9fd-47aa-a855-e380a686710a"
         },
         {
             "id":"154",
@@ -1193,7 +1185,7 @@
             "titleSpanish":"¿Cuál es tu género?",
             "desciption":"Formular una pregunta",
             "id_theme":"3",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Wh-Questions%2FWhat%20is%20your%20gender_.jpg?alt=media&token=d6c6ef0c-54fb-4eed-9b52-831639300dc1"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Let's%20get%20personal%2Fgender.png?alt=media&token=c9b19f82-9de9-48ad-b4d2-b9502624718b"
         }
 
 
