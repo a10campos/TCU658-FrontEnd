@@ -17,7 +17,7 @@
     },
     {
         "id":"3",
-        "title":"Good Morning",
+        "title":"Good morning",
         "titleSpanish":"Buenos días",
         "desciption":"Saludo de buenos días en las mañanas",
         "id_theme":"1",
@@ -113,16 +113,16 @@
         },
         {
             "id":"16",
-            "title":"Nice to meet you.",
-            "titleSpanish":"Encantado/a de conocerte.",
+            "title":"Nice to meet you",
+            "titleSpanish":"Encantado/a de conocerte",
             "desciption":"Forma de mostrar agrado al conocer una persona  ",
             "id_theme":"1",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hello%2C%20hi%20there%2Fnice%20to%20meet%20you.png?alt=media&token=b7451508-4f8e-4d97-88cf-f8b0257dd1f3"
         }, 
         {
             "id":"17",
-            "title":"Nice to meet you too.",
-            "titleSpanish":"Encantado/a de conocerte también.",
+            "title":"Nice to meet you too",
+            "titleSpanish":"Encantado/a de conocerte también",
             "desciption":"Forma de mostrar agrado al conocer una persona.",
             "id_theme":"1",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hello%2C%20hi%20there%2Fnice%20to%20meet%20you%20too.png?alt=media&token=40504522-2734-413a-a6ea-7eb5d430e9a5"
@@ -350,7 +350,7 @@
         {
             "id":"49",
             "title":"Jail",
-            "titleSpanish":"Carcel",
+            "titleSpanish":"Cárcel",
             "desciption":"Jail- Carcel. ",
             "id_theme":"2",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Building%20Community%2FJail.png?alt=media&token=bf5c5550-d1b8-4a72-a1e2-0d29e7ec7b13"
@@ -598,10 +598,10 @@
         {
             "id":"79",
             "title":"Blackberries",
-            "titleSpanish":"Mora",
+            "titleSpanish":"Zarzamora",
             "desciption":"Mora",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fblueberries.png?alt=media&token=e9fef231-7c6e-4259-82c6-283dc7cf7e30"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fblackberry.png?alt=media&token=9c3d2b93-ce91-46dd-b9a2-c2fe1ee55d67"
         },
         {
             "id":"80",
@@ -689,7 +689,7 @@
             "titleSpanish":"Res",
             "desciption":"Res",
             "id_theme":"6",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fbeef.png?alt=media&token=89bda782-e17e-4c95-9af3-33575ac20219"
+            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Fruits%20and%20vegetables%2Fbeef.png?alt=media&token=bc1179c7-73cc-4b9a-9564-299af6629777"
         },
         {
             "id":"91",
@@ -918,7 +918,7 @@
         {
             "id":"119",
             "title":"I go out with my family.",
-            "titleSpanish":"Yo salgo con mis padres.",
+            "titleSpanish":"Yo salgo con mi familia.",
             "desciption":"Conjugación del verbo salir hacer en primera persona singular",
             "id_theme":"5",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2Ffamily-going-out.png?alt=media&token=7345d927-72e7-4b3d-8d56-91d1839c6a3c"
@@ -973,24 +973,24 @@
         },
         {
             "id":"126",
-            "title":"To talk by cell phone.",
-            "titleSpanish":"Hablar por teléfono.",
+            "title":"To talk by cell phone",
+            "titleSpanish":"Hablar por teléfono",
             "desciption":"Verbo hablar en infinitivo",
             "id_theme":"7",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2Ftalk-cel.png?alt=media&token=40600b63-a70e-4bf1-a75b-04bca240241f"
         },
         {
             "id":"127",
-            "title":"To play board games.",
-            "titleSpanish":"Jugar juegos de mesa.",
+            "title":"To play board games",
+            "titleSpanish":"Jugar juegos de mesa",
             "desciption":"Verbo jugar en infinitivo",
             "id_theme":"7",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2Fboardgames.png?alt=media&token=66fd4085-53a4-42c0-a430-95fa000ce342"
         },
         {
             "id":"128",
-            "title":"To play cards.",
-            "titleSpanish":"Jugar cartas.",
+            "title":"To play cards",
+            "titleSpanish":"Jugar cartas",
             "desciption":"Verbo jugar en infinitivo",
             "id_theme":"7",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Hanging%20out%2Fplaying-cards.png?alt=media&token=223324f3-614c-4993-9383-0feb30572d80"
@@ -1010,14 +1010,6 @@
             "desciption":"Disgustos/Preferencias",
             "id_theme":"8",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Thinks%20I%20like%20to%20do%2Fmuted.png?alt=media&token=587909ac-cfd7-4560-bac8-88ca3e7b888d"
-        },
-        {
-            "id":"131",
-            "title":"I hate eating spicy food.",
-            "titleSpanish":"Odio comer comida picante.",
-            "desciption":"Disgustos/ Preferencias",
-            "id_theme":"8",
-            "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Thinks%20I%20like%20to%20do%2Fspicy.png?alt=media&token=03da813e-64d6-4cfe-a198-484c50cfbf5e"
         },
         {
             "id":"132",
@@ -1062,7 +1054,7 @@
         {
             "id":"138",
             "title":"I love to ride my bike.",
-            "titleSpanish":"Amo pasear en bicicleta.",
+            "titleSpanish":"Me encanta andar en bicicleta.",
             "desciption":"Gustos/Preferencias",
             "id_theme":"8",
             "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Thinks%20I%20like%20to%20do%2Fridemybike.png?alt=media&token=f9771b1c-850d-4b6a-9c72-cc5895e8feaa"

@@ -25,7 +25,7 @@
     },
     {
         "id":"5",
-        "Description":"My daily Routine",
+        "Description":"My Daily Routine",
         "id_unit":"2",
         "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/My%20daily%20routine%2FCardTheme.jpg?alt=media&token=af866af4-4098-40ff-867a-2fbc33aa63c8"
     },
@@ -43,7 +43,7 @@
     },
     {
         "id":"8",
-        "Description":"Thinks I Like to Do",
+        "Description":"Things I Like to Do",
         "id_unit":"2",
         "img":"https://firebasestorage.googleapis.com/v0/b/tcu658.appspot.com/o/Portadas%2FThinksIL.png?alt=media&token=2cf03ed7-8e5b-4058-8551-2dcf8c449080"
     }

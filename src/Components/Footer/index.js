@@ -4,7 +4,7 @@ export default function Footer () {
     return (
         //Header de las imagenes con los logos
         <>
-        <footer id="footer"className="mt-2 lg:h-[280px] h-[380px] bg-gray flex flex-wrap p-4 items-center justify-center ">
+        <footer id="footer"className="mt-2 lg:h-[280px] h-[400px] bg-gray flex flex-wrap p-4 items-center justify-center ">
                 <div className="w-[70%] ">
                     <div className="pl-2 grid grid-cols-1 lg:flex lg:flex-row lg:space-x-96 mt-4">
                         <div className="">
@@ -29,7 +29,7 @@ export default function Footer () {
                         </div>
                     </div> 
                     <div className="">
-                    <p className="text-center lg:mt-8">Imagenes de libre uso tomadas de <a href ="https://creazilla.com/">https://creazilla.com/</a>.</p>
+                    <p className="text-center lg:mt-8 mt-8">Imagenes de libre uso tomadas de <a href ="https://creazilla.com/">https://creazilla.com/</a>.</p>
                     </div>
 
                     <p className="text-center lg:mt-2">Julio-2023 </p>
